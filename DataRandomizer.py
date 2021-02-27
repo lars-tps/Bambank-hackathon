@@ -31,8 +31,8 @@ def randomizeCords(upper_bounds):
     lstx = []
     lsty = []
     for i in range(upper_bounds):
-        x = random.randrange(1296798,1423013)
-        y = random.randrange(103910251,103914775)
+        x = random.randrange(1,1000)
+        y = random.randrange(1,1000)
         #coords = x,y
         lstx.append(x)
         lsty.append(y)
