@@ -42,19 +42,19 @@ def priority_sort(profile):
     profile0=[]
     priority_sorted_profile=sorted(profile,key=lambda l:l[5], reverse=True)
     for i in priority_sorted_profile:
-        if i[5]==6:
+        if i[6]==6:
             profile6.append(i)
-        elif i[5]==5:
+        elif i[6]==5:
             profile5.append(i)
-        elif i[5]==4:
+        elif i[6]==4:
             profile4.append(i)
-        elif i[5]==3:
+        elif i[6]==3:
             profile3.append(i)
-        elif i[5]==2:
+        elif i[6]==2:
             profile2.append(i)
-        elif i[5]==1:
+        elif i[6]==1:
             profile1.append(i)
-        elif i[5]==0:
+        elif i[6]==0:
             profile0.append(i)
     profile6=sorted(profile6,key=lambda l:l[1], reverse = False)
     profile3 = sorted(profile3, key=lambda l: l[1], reverse=False)
