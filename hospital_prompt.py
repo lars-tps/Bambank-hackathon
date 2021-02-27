@@ -5,9 +5,6 @@ def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
     pass
 
-def start_menu():
-    pass
-
 
 def name_prompt():
     name = input("Please enter hospital name\n> ").lower()
@@ -28,27 +25,11 @@ def timeslots_prompt():
             flag = False
         clear_screen()
 
-    return timeslots
+    string = ''
+    for slot in timeslots:
+        string += f"{','.join(slot)};"
 
-# CSV Thing
-def importToCSV():
-    timeslots = timeslots_prompt()
-    file = open("timeslots.csv", "a")
-    for i in range(len(timeslots)):
-        for j in range(len(timeslots[i])):
-            file.writelines(timeslots[i][j]+";")
-        file.write("\n")
-
-    file.close()
-
-def clearCSV():
-    file = open("timeslots.csv", "w")
-    file.write("")
-    file.close()
-
-# End of CSV Thing
-
-    
+    return string
 
 
 def numberofvaccine_prompt():
@@ -57,8 +38,33 @@ def numberofvaccine_prompt():
 
 
 def coordinates_prompt():
-    coordinates = input("Please enter coordinates of this vaccination location")
+    coordinates = input("Please enter coordinates of this vaccination location\nexample: (1234567,123456789)\n> ")
     return coordinates
 
-def prompt_loop():
-    print("Welcome to the vaccination station details form\nThis script allows user to input details of a vaccination station\n")
+
+def form_tool():
+    print("Welcome to the vaccination station details form\nThis script allows user to input details of a vaccination station and stores them in a csv file\n")
+    row = [name_prompt(), timeslots_prompt(), numberofvaccine_prompt(), coordinates_prompt()]
+    print("Form submitted! Thanks for using this tool")
+    return row
+
+
+# CSV Thing
+def importToCSV():
+    form = form_tool()
+    file = open("hospital_data.csv", "a")
+    for i in range(len(form)):
+        file.writelines(str(form[i])+",")
+    file.write("\n")
+
+    file.close()
+
+def clearCSV():
+    file = open("hospital_data.csv","w")
+    file.write("")
+    file.close()
+
+
+
+
+importToCSV()
