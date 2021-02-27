@@ -38,7 +38,7 @@ def numberofvaccine_prompt():
 
 
 def coordinates_prompt():
-    coordinates = input("Please enter coordinates of this vaccination location\nexample: (1234567,123456789)\n> ")
+    coordinates = input("Please enter coordinates of this vaccination location\nexample: 1234567,123456789\n> ")
     return coordinates
 
 
