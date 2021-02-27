@@ -30,6 +30,26 @@ def timeslots_prompt():
 
     return timeslots
 
+# CSV Thing
+def importToCSV():
+    timeslots = timeslots_prompt()
+    file = open("timeslots.csv", "a")
+    for i in range(len(timeslots)):
+        for j in range(len(timeslots[i])):
+            file.writelines(timeslots[i][j]+";")
+        file.write("\n")
+
+    file.close()
+
+def clearCSV():
+    file = open("timeslots.csv", "w")
+    file.write("")
+    file.close()
+
+# End of CSV Thing
+
+    
+
 
 def numberofvaccine_prompt():
     amount = input("Please enter the number of available vaccine\n> ")
