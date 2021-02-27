@@ -1,3 +1,5 @@
-Hospital, Timeslots & Number of Patient, Number of Vaccines, Coordinates 
-test,12:30-15:30_{200}|16:00-17:00_{50}|,500,123,123,
-test2,10:00-11:00_{50}|12:00-13:00_{30}|,,321,321,
+Hospital, Timeslots, Number of Patient, Number of Vaccines, Coordinatesx, coordinatesy
+test,12_30-15_30,200,500,123,123
+test,16_00-17_00,200,50,123,123
+test2,10_00-11_00,100,50,321,321
+test2,12_00-13_00,100,30,321,321
