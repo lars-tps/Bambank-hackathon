@@ -19,7 +19,7 @@ def timeslots_prompt():
         first_prompt = input("Please enter time slots\nexample: 12:30-15:30\n (enter 'END' to finish)\n> ").lower()
         if first_prompt != "end":
             second_prompt = input("Please enter capacity for this slot\nexample: 50\n> ")
-            user_input = [first_prompt +'|'+ second_prompt]
+            user_input = [first_prompt +'|'+ second_prompt +'|']
             timeslots.append(user_input)
         else:
             flag = False
@@ -38,7 +38,7 @@ def numberofvaccine_prompt():
 
 
 def coordinates_prompt():
-    coordinates = input("Please enter coordinates of this vaccination location\nexample: (1234567,123456789)\n> ")
+    coordinates = input("Please enter coordinates of this vaccination location\nexample: 1234567,123456789\n> ")
     return coordinates
 
 
@@ -51,11 +51,21 @@ def form_tool():
 
 # CSV Thing
 def importToCSV():
-    form = form_tool()
-    file = open("hospital_data.csv", "a")
-    for i in range(len(form)):
-        file.writelines(str(form[i])+",")
-    file.write("\n")
+    print("Enter 'OVERWRITE' to overwrite csv, enter anything to submit new row")
+    add = input(">")
+    if(add.lower() == "overwrite"):
+        newCSV()
+        form = form_tool()
+        file = open("hospital_data.csv", "a")
+        for i in range(len(form)):
+            file.writelines(str(form[i])+",")
+        file.write("\n")
+    else:
+        form = form_tool()
+        file = open("hospital_data.csv", "a")
+        for i in range(len(form)):
+            file.writelines(str(form[i]) + ",")
+        file.write("\n")
 
     file.close()
 
@@ -64,6 +74,10 @@ def clearCSV():
     file.write("")
     file.close()
 
+def newCSV():
+    file = open("hospital_data.csv","w")
+    file.writelines("Hospital, Timeslots & Number of Patient, Number of Vaccines, Coordinates \n")
+    file.close()
 
 
 
