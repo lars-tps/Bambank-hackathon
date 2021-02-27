@@ -51,12 +51,21 @@ def form_tool():
 
 # CSV Thing
 def importToCSV():
-    form = form_tool()
-    file = open("hospital_data.csv", "a")
-    file.writelines("Hospital, Timeslots & Number of Patient, Number of Vaccines, Coordinates \n")
-    for i in range(len(form)):
-        file.writelines(str(form[i])+",")
-    file.write("\n")
+    print("Add file or new file")
+    add = input(">")
+    if(add.lower() == "add")
+        form = form_tool()
+        file = open("hospital_data.csv", "a")
+        for i in range(len(form)):
+            file.writelines(str(form[i])+",")
+        file.write("\n")
+    elif(add.lower() == "rewrite"):
+        newCSV()
+        form = form_tool()
+        file = open("hospital_data.csv", "a")
+        for i in range(len(form)):
+            file.writelines(str(form[i])+",")
+        file.write("\n")
 
     file.close()
 
@@ -65,6 +74,10 @@ def clearCSV():
     file.write("")
     file.close()
 
+def newCSV():
+    file = open("hospital_data.csv","w")
+    file.writelines("Hospital, Timeslots & Number of Patient, Number of Vaccines, Coordinates \n")
+    file.close()
 
 
 
