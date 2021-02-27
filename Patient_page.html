@@ -3,37 +3,66 @@
     <head>
         <style>
         body {
-          background-image: url('file:///D:/Bambank-hackathon/html%20images/istockphoto-684456292-640x640.jpg');
+          background-image: url('https://raw.githubusercontent.com/lars-tps/Bambank-hackathon/main/html%20images/istockphoto-684456292-640x640.jpg');
           background-repeat: no-repeat;
           background-attachment: fixed;
           background-size: 100% 100%;
         }
-            h{
+            .azure{
                 color:  azure;
                 font-size: 35px;
+                text-align: center;
             }
-            p{
+            .floral{
+                text-align: center;
                 color: floralwhite;
                 font-size: 20px;
             }
+            .midButton1{
+                font-size: 35px;
+                position: absolute;
+                left: 40%;
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+            .midButton2{
+                font-size: 35px;
+                position: absolute;
+                left: 60%;
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+            }
+            
         </style>
        
         <title>
         Patient Page
         </title>
             
-        <h>Vaccination Form</h>
-        <p style = color:azure;>
+        <h1 class = "azure">Vaccination Form</h>
+        <p class = "floral">
         You are required to fill in the following form in order to receive your timeslots for vaccination.
         </p>
         <form>
-            <p style = color:azure; > First Name :</p>
+            <label for = "fname" class = "floral";>First Name :</label>
             <input type="text"><br/>
-            <p style = color:azure; > Last Name :</p>
+            <label for = "lname" class = "floral";>Last Name :</label>
             <input type="text"><br/>
-            <p style = color:azure; > ID Number :</p>
+            <label for = "ID" class = "floral";>ID Number :</label>
             <input type="text"><br/>
             <input type="submit"><br/>
         </form>
+        
+        <p class = "floral"> Welcome to Bambank's Vaccination Scheduler</p>
+        <p class = "floral"> The Time that your are assigned to is: </p>
+        <h2 class = "azure"> THIS IS AN EXAMPLE TIME</h2>
+        <p class = "floral"> Location of Vacination is: </p>
+        <h3 class = "azure"> THIS IS AN EXAMPLE LOCATION</h3>
+        <div class = "midButton1">
+        <button class = "midButton">Accept</button>
+        </div>
+        <div class = "midButton2">
+        <button class = "midButton">Reject</button>
+        </div>
     </head>
 </html>
