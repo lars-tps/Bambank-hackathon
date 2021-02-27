@@ -10,26 +10,34 @@ def name_prompt():
     name = input("Please enter hospital name\n> ").lower()
     return name
 
-
+def change_form(time_prompt):
+    idx=time_prompt.find(":")
+    if(idx!=-1):
+        time_prompt=list(time_prompt)
+        time_prompt[idx]='_'
+        return "".join(time_prompt)
+    else:
+        return time_prompt
 def timeslots_prompt():
     flag = True
     timeslots = []
 
     while flag:
-        first_prompt = input("Please enter time slots\nexample: 12:30-15:30\n (enter 'END' to finish)\n> ").lower()
-        if first_prompt != "end":
+        time_prompt1 = input("Please enter time when the vacination starts\nexample: 12:30\n (enter 'END' to finish)\n> ").lower()
+        time_prompt2 =input("Please enter time when the vacination end\nexample: 15:30\n (enter 'END' to finish)\n> ").lower()
+        time_prompt1=change_form(time_prompt1)
+        time_prompt2=change_form(time_prompt2)
+        if time_prompt1 and time_prompt2 != "end":
             second_prompt = input("Please enter capacity for this slot\nexample: 50\n> ")
-            user_input = [first_prompt +'_{'+ second_prompt +'}|']
+            user_input = time_prompt1+'-'+time_prompt2+','+second_prompt
             timeslots.append(user_input)
         else:
             flag = False
         clear_screen()
 
     string = ''
-    for slot in timeslots:
-        string += f"{';'.join(slot)}"
 
-    return string
+    return timeslots
 
 
 def numberofvaccine_prompt():
@@ -44,7 +52,7 @@ def coordinates_prompt():
 
 def form_tool():
     print("Welcome to the vaccination station details form\nThis script allows user to input details of a vaccination station and stores them in a csv file\n")
-    row = [name_prompt(), timeslots_prompt(), numberofvaccine_prompt(), coordinates_prompt()]
+    row = [name_prompt(), timeslots_prompt(), coordinates_prompt()]
     print("Form submitted! Thanks for using this tool")
     return row
 
@@ -55,19 +63,13 @@ def importToCSV():
     add = input(">")
     if(add.lower() == "overwrite"):
         newCSV()
-
-    if(add.lower() == "add"):
-        form = form_tool()
-        file = open("hospital_data.csv", "a")
-        for i in range(len(form)):
-            file.writelines(str(form[i])+",")
-        file.write("\n")
     else:
         form = form_tool()
         file = open("hospital_data.csv", "a")
-        for i in range(len(form)):
-            file.writelines(str(form[i]) + ",")
-        file.write("\n")
+        for i in form[1]:
+            print(form[0],i,form[2])
+            file.writelines(str(form[0]) +","+i+','+form[2]+"\n")
+        #file.write("\n")
 
     file.close()
 
