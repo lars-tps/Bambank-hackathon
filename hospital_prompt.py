@@ -51,20 +51,20 @@ def form_tool():
 
 # CSV Thing
 def importToCSV():
-    print("Add file or new file")
+    print("Enter 'OVERWRITE' to overwrite csv, enter anything to submit new row")
     add = input(">")
-    if(add.lower() == "add")
-        form = form_tool()
-        file = open("hospital_data.csv", "a")
-        for i in range(len(form)):
-            file.writelines(str(form[i])+",")
-        file.write("\n")
-    elif(add.lower() == "rewrite"):
+    if(add.lower() == "overwrite"):
         newCSV()
         form = form_tool()
         file = open("hospital_data.csv", "a")
         for i in range(len(form)):
             file.writelines(str(form[i])+",")
+        file.write("\n")
+    else:
+        form = form_tool()
+        file = open("hospital_data.csv", "a")
+        for i in range(len(form)):
+            file.writelines(str(form[i]) + ",")
         file.write("\n")
 
     file.close()
