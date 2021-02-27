@@ -21,21 +21,20 @@ def insert_to_hospital(profiles):
         hospital=csv.reader(csv_file)
         start=False
         for line in hospital:
-            print(line[4],line[5])
             temp=profiles
             save=[]
             if start:
                 for i in temp:
-                    save.append(i[0]+','+str(i[1])+','+i[2]+','+str(calcDistance(int(i[3][0]),int(i[3][1]),int(line[4]),int(line[5])))+'\n')
+                    save.append(i[0]+','+str(i[1])+','+i[2]+','+str(calcDistance(int(i[3][0]),int(i[3][1]),int(line[3]),int(line[4])))+'\n')
                 with open(line[0]+'_'+line[1]+'.csv','w+') as hospital_data:
                     for i in save:
                         hospital_data.writelines(i)  
             start=True
-            print("ya")
         
 if __name__=='__main__':
     profiles=insert_profiles()
     insert_to_hospital(profiles)
+
 
 
     
