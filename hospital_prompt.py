@@ -55,8 +55,16 @@ def importToCSV():
     file = open("hospital_data.csv", "a")
     for i in range(len(form)):
         file.writelines(str(form[i])+",")
+    file.write("\n")
 
     file.close()
+
+def clearCSV():
+    file = open("hospital_data.csv","w")
+    file.write("")
+    file.close()
+
+
 
 
 importToCSV()
