@@ -3,7 +3,7 @@
 class Patient:
     def __init__(self,id,age,infection_status,cordsx,cordsy,residency_status):
         self.id=id
-        self.age=age
+        self.age=int(age)
         self.infection_status=infection_status
         self.cordsx=cordsx
         self.cordsy=cordsy
@@ -18,14 +18,14 @@ def priority(patients):
     for profile in patients:
         if profile.infection_status==1 :
             priority_level=0
-        elif profile.infection_status==0:
+        elif profile.residency_status==0:
             if 18<=profile.age<=50:
                 priority_level=3
             elif profile.age<18:
                 priority_level=2
             elif profile.age>50:
                 priority_level=1
-        elif profile.age==1:
+        elif profile.residency_status==1:
             if 18<=profile.age<=50:
                 priority_level=6
             elif profile.age<18:
