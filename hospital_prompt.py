@@ -19,7 +19,7 @@ def timeslots_prompt():
         first_prompt = input("Please enter time slots\nexample: 12:30-15:30\n (enter 'END' to finish)\n> ").lower()
         if first_prompt != "end":
             second_prompt = input("Please enter capacity for this slot\nexample: 50\n> ")
-            user_input = [first_prompt +'|'+ second_prompt]
+            user_input = [first_prompt +'|'+ second_prompt +'|']
             timeslots.append(user_input)
         else:
             flag = False
