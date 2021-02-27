@@ -1,0 +1,24 @@
+{%extends "hospital_base.html"%}
+{%block title%}
+{{name}}
+{%endblock%}
+
+{% block style %}
+table, th, td {
+    border: 0.3px solid black;
+  }
+{%endblock%}
+
+{%block content%}
+<p class="hell">Below is the data of patients that are going to be vaccinated here</p>
+<table style="width: 15%; margin-left: auto;margin-right: auto;background-color: rgb(95, 163, 172);">
+<tr>
+    <th class="azure">Id</th>
+</tr>
+{% for i in patient_data%}
+<tr>
+    <td class="azure">{{i}}</td>
+</tr>
+{% endfor %}
+</table>
+{%endblock%}

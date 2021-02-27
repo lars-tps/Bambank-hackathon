@@ -47,28 +47,34 @@ def insert_to_hospital(profiles):
             file = open(hospital[0]+'_'+hospital[1]+'.csv',"w")
             file.write("")
             file.close()
+            file=open('patient_hospital_destination.csv','w')
+            file.write("")
+            file.close()
             hospitals.append(Hospital(hospital[0],hospital[1],hospital[2],hospital[3],hospital[4]))
-        start=False
+        #start=False
         for profile in profiles:
-            mn=-1
-            save=-1
-            for (idx,hospital) in enumerate(hospitals):
-                dist=calcDistance(int(profile.cordsx),int(profile.cordsy),int(hospital.cordsx),int(hospital.cordsy))
-                if mn==-1 and hospital.max_number_of_patients>0:
-                    save=idx
-                    mn=dist
-                    chosen_hospital=hospital
-                    hospital.max_number_of_patients-=1
-                elif mn>dist and hospital.max_number_of_patients>0:
-                    hospitals[save].max_number_of_patients+=1
-                    hospital.max_number_of_patients-=1
-                    mn=dist
-                    save=idx
-                    chosen_hospital=hospital
-            
-            with open(chosen_hospital.name+'_'+chosen_hospital.time_slots+'.csv','a') as hospital_listed_patient:
-                hospital_listed_patient.writelines(str(profile.id)+','+str(profile.age)+','+str(profile.infection_status)+','+profile.cordsx+','+profile.cordsy+','+str(profile.residency_status)+'\n')  
-            start=True
+            if profile.priority_level!=0:
+                mn=-1
+                save=-1
+                for (idx,hospital) in enumerate(hospitals):
+                    dist=calcDistance(int(profile.cordsx),int(profile.cordsy),int(hospital.cordsx),int(hospital.cordsy))
+                    if mn==-1 and hospital.max_number_of_patients>0:
+                        save=idx
+                        mn=dist
+                        chosen_hospital=hospital
+                        hospital.max_number_of_patients-=1
+                    elif mn>dist and hospital.max_number_of_patients>0:
+                        hospitals[save].max_number_of_patients+=1
+                        hospital.max_number_of_patients-=1
+                        mn=dist
+                        save=idx
+                        chosen_hospital=hospital
+                
+                with open(chosen_hospital.name+'_'+chosen_hospital.time_slots+'.csv','a') as hospital_listed_patient:
+                    hospital_listed_patient.writelines(str(profile.id)+','+str(profile.age)+','+str(profile.infection_status)+','+profile.cordsx+','+profile.cordsy+','+str(profile.residency_status)+'\n')  
+                with open('patient_hospital_destination.csv','a') as patient_hospital_destination:
+                    patient_hospital_destination.writelines(str(profile.id)+','+chosen_hospital.name+','+chosen_hospital.time_slots+'\n')
+                #start=True
         
 if __name__=='__main__':
     profiles=insert_profiles()

@@ -1,0 +1,20 @@
+{% extends "Patient_base.html"%}
+{% block content %}
+  
+    <h1 class = "azure">Vaccination Form</h1>
+    <p class = "floral">
+    You are required to fill in the following form in order to receive your timeslots for vaccination.
+    </p>
+    <div class = "floral">
+    <form method="POST">
+        <!--<label for = "fname" class = "floral";>First Name :</label>
+        <input type="text"><br/>
+        <label for = "lname" class = "floral";>Last Name :</label>
+        <input type="text"><br/>-->
+        <label for = "ID" class = "floral";>ID Number :</label>
+        <input type="text" name="id"><br/>
+        <input type="submit"><br/>
+    </form>
+    </div>
+   
+{% endblock %}

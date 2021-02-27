@@ -1,0 +1,16 @@
+{% extends "Patient_base.html"%}
+{% block content %}
+ <p class = "floral"> Welcome to Bambank's Vaccination Scheduler</p>
+<p class = "floral"> The Time that your are assigned to is: </p>
+<h2 class = "azure">{{time_prompt}}</h2>
+<p class = "floral"> Location of Vacination is: </p>
+<h3 class = "azure"> {{loc}}</h3>
+<form method="POST">
+<div class = "midButton1">
+<button class = "midButton" name="but" value="Accept" method="POST">Accept</button>
+</div>
+<div class = "midButton2">
+<button class = "midButton" name="but" value="Reject" method="POST">Reject</button>
+</div>
+</form>
+{%endblock%}

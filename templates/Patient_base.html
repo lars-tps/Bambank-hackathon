@@ -40,34 +40,12 @@
         <title>
         Patient Page
         </title>
-        <div style="background-color: black; padding: 45px; margin: 50px 600px; border: 5px solid azure; border-radius: 25px;">   
-        <h1 class = "azure">Vaccination Form</h1>
-        <p class = "floral">
-        You are required to fill in the following form in order to receive your timeslots for vaccination.
-        </p>
-        <div class = "floral">
-        <form>
-            <label for = "fname" class = "floral";>First Name :</label>
-            <input type="text"><br/>
-            <label for = "lname" class = "floral";>Last Name :</label>
-            <input type="text"><br/>
-            <label for = "ID" class = "floral";>ID Number :</label>
-            <input type="text"><br/>
-            <input type="submit"><br/>
-        </form>
+        </head>
+        <body>
+        <div style="background-color: black; padding: 45px; margin: 50px 600px; border: 5px solid azure; border-radius: 25px;"> 
+        {% block content %}
+        {% endblock %}
         </div>
         
-        <p class = "floral"> Welcome to Bambank's Vaccination Scheduler</p>
-        <p class = "floral"> The Time that your are assigned to is: </p>
-        <h2 class = "azure"> THIS IS AN EXAMPLE TIME</h2>
-        <p class = "floral"> Location of Vacination is: </p>
-        <h3 class = "azure"> THIS IS AN EXAMPLE LOCATION</h3>
-        <div class = "midButton1">
-        <button class = "midButton">Accept</button>
-        </div>
-        <div class = "midButton2">
-        <button class = "midButton">Reject</button>
-        </div>
-        </div>
-    </head>
+        </body>
 </html>
