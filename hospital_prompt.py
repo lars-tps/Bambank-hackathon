@@ -68,9 +68,8 @@ def importToCSV():
     form = form_tool()
     file = open("hospital_data.csv", "a")
     for i in range(len(form)):
-        for j in range(len(form[i])):
-            file.writelines(form[i][j]+";")
-        file.write("\n")
+        file.writelines(str(form[i])+";")
+
 
     file.close()
 
