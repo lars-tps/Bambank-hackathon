@@ -4,16 +4,14 @@ def randomize(x):
     #Main Code
     # ID, Age, Cords
     data = open("data.csv",'w')
-    data.writelines("ID; Age;Infection Status;Coordinates;\n")
+    data.writelines("ID; Age;Infection Status;Residency Status;Coordinates;\n")
     ID = randomizeID(InttoList(x))
     age = randomizeAge(x)
     status = randomizeInfectionStatus(x)
     cords = randomizeCords(x)
+    residence = randomizeResidence(x)
     for j in range(len(ID)):
-        data.writelines(ID[j] + ";" + age[j] + ";" + status[j] + ";" + str(cords[j]) + "\n")
-
-    
-    
+        data.writelines(ID[j] + ";" + age[j] + ";" + status[j] + ";" +residence[j]+";"+ str(cords[j]) + "\n")
     data.close()
     
 def InttoList(y):
@@ -55,14 +53,8 @@ def randomizeID(upper_bounds):
 def randomizeCords(upper_bounds):
     lst = []
     for i in range(upper_bounds):
-        negx = random.randint(-1,1)
-        negy = random.randint(-1,1)
-        if negx == 0:
-            negx += 1
-        if negy == 0:
-            negy +=1
-        x = random.randrange(1000,10000)*negx
-        y = random.randrange(1000,10000)*negy
+        x = random.randrange(1296798,1423013)
+        y = random.randrange(103910251,103914775)
         coords = (x,y)
         lst.append(coords)
     return lst
@@ -79,7 +71,17 @@ def randomizeInfectionStatus(upper_bound):
             ans.append("Healthy")
     return ans
 
-
+def randomizeResidence(upper_bounds):
+    lst = []
+    ans = []
+    for i in range (upper_bounds):
+        lst.append(random.randint(0,1))
+    for i in lst:
+        if i:
+            ans.append("Singaporean Citizen")
+        else:
+            ans.append("Foreigner")
+    return ans
 def joinList(lst):
     ans = ""
     lstt = []
