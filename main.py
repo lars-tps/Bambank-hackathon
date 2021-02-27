@@ -19,9 +19,12 @@ def insert_profiles():
 def insert_to_hospital(profiles):
     with open('hospital_data.csv','r') as csv_file:
         hospital=csv.reader(csv_file)
-        for line in hospital: 
-            for i in profiles:
-                print(calcDistance(int(i[3][0]),int(i[3][1]),int(line[3]),int(line[4])))
+        start=False
+        for line in hospital:
+            if start:
+                for i in profiles:
+                    print(calcDistance(int(i[3][0]),int(i[3][1]),int(line[3]),int(line[4])))
+            start=True
 
 if __name__=='__main__':
     profiles=insert_profiles()
