@@ -4,14 +4,14 @@ def randomize(x):
     #Main Code
     # ID, Age, Cords
     data = open("data.csv",'w')
-    data.writelines("ID, Age,Infection Status,CoordinatesResidency Status\n")
+    data.writelines("ID, Age,Infection Status,CoordinatesX,CoordinatesY,Residency Status\n")
     ID = randomizeID(InttoList(x))
     age = randomizeAge(x)
     status = randomizeInfectionStatus(x)
-    cords = randomizeCords(x)
+    cordsx,cordsy = randomizeCords(x)
     residence = randomizeResidence(x)
     for j in range(len(ID)):
-        data.writelines(ID[j] + "," + age[j] + "," + status[j] + "," +str(cords[j])+","+residence[j]+ "\n")
+        data.writelines(ID[j] + "," + age[j] + "," + status[j] + "," +str(cordsx[j])+","+str(cordsy[j])+','+residence[j]+ "\n")
     data.close()
     
 def InttoList(y):
@@ -51,13 +51,15 @@ def randomizeID(upper_bounds):
     return res
        
 def randomizeCords(upper_bounds):
-    lst = []
+    lstx = []
+    lsty = []
     for i in range(upper_bounds):
         x = random.randrange(1296798,1423013)
         y = random.randrange(103910251,103914775)
-        coords = x,y
-        lst.append(coords)
-    return lst
+        #coords = x,y
+        lstx.append(x)
+        lsty.append(y)
+    return lstx,lsty
 
 def randomizeInfectionStatus(upper_bound):
     lst = []

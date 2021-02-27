@@ -1,1000 +1,1000 @@
-ID, Age,Infection Status,CoordinatesResidency Status
-001,80,Healthy,(1358723, 103912306),Singaporean Citizen
-002,51,Healthy,(1350999, 103914091),Foreigner
-003,99,Infected,(1360444, 103911222),Singaporean Citizen
-004,73,Healthy,(1420874, 103912327),Singaporean Citizen
-005,70,Healthy,(1413896, 103914466),Singaporean Citizen
-006,31,Infected,(1377959, 103911588),Foreigner
-007,80,Infected,(1406331, 103911046),Foreigner
-008,84,Healthy,(1421136, 103913742),Foreigner
-009,24,Infected,(1407028, 103912430),Singaporean Citizen
-010,58,Healthy,(1372152, 103913530),Foreigner
-011,97,Infected,(1317340, 103911727),Singaporean Citizen
-012,59,Infected,(1297133, 103914281),Singaporean Citizen
-013,7,Infected,(1371365, 103911376),Singaporean Citizen
-014,86,Infected,(1353429, 103910738),Foreigner
-015,60,Infected,(1351834, 103911535),Singaporean Citizen
-016,78,Healthy,(1409119, 103913196),Foreigner
-017,60,Infected,(1327560, 103914331),Singaporean Citizen
-018,22,Infected,(1393126, 103913295),Foreigner
-019,96,Healthy,(1347437, 103913514),Singaporean Citizen
-020,22,Healthy,(1320284, 103911803),Singaporean Citizen
-021,47,Healthy,(1330567, 103911691),Singaporean Citizen
-022,20,Infected,(1382537, 103911614),Foreigner
-023,6,Infected,(1377414, 103911154),Foreigner
-024,49,Infected,(1353097, 103910707),Singaporean Citizen
-025,96,Infected,(1299407, 103911820),Singaporean Citizen
-026,67,Healthy,(1392665, 103913945),Singaporean Citizen
-027,48,Infected,(1390439, 103913729),Singaporean Citizen
-028,86,Healthy,(1399164, 103911370),Singaporean Citizen
-029,75,Healthy,(1408628, 103914430),Foreigner
-030,10,Infected,(1345843, 103910413),Foreigner
-031,25,Infected,(1307374, 103911923),Singaporean Citizen
-032,32,Healthy,(1419531, 103911082),Singaporean Citizen
-033,19,Infected,(1380004, 103913707),Foreigner
-034,32,Healthy,(1375459, 103913750),Foreigner
-035,18,Healthy,(1304032, 103914178),Foreigner
-036,9,Infected,(1318002, 103914122),Singaporean Citizen
-037,17,Healthy,(1418223, 103912267),Foreigner
-038,50,Infected,(1408783, 103914587),Singaporean Citizen
-039,81,Healthy,(1372159, 103911105),Singaporean Citizen
-040,44,Infected,(1379172, 103911551),Foreigner
-041,85,Healthy,(1313408, 103910755),Foreigner
-042,67,Infected,(1353012, 103912067),Singaporean Citizen
-043,59,Healthy,(1342899, 103913042),Foreigner
-044,41,Infected,(1304532, 103914745),Singaporean Citizen
-045,74,Infected,(1304974, 103912714),Singaporean Citizen
-046,74,Healthy,(1409413, 103910541),Foreigner
-047,15,Infected,(1346844, 103910490),Foreigner
-048,5,Infected,(1382533, 103912130),Singaporean Citizen
-049,27,Healthy,(1360953, 103914102),Foreigner
-050,6,Infected,(1417645, 103914254),Foreigner
-051,26,Healthy,(1376827, 103912970),Foreigner
-052,88,Healthy,(1375159, 103912362),Foreigner
-053,8,Healthy,(1415443, 103912870),Foreigner
-054,35,Healthy,(1371956, 103911967),Foreigner
-055,59,Infected,(1421491, 103914606),Singaporean Citizen
-056,6,Healthy,(1358687, 103910955),Foreigner
-057,6,Infected,(1388567, 103913347),Foreigner
-058,90,Infected,(1297160, 103913762),Foreigner
-059,25,Healthy,(1387606, 103914028),Foreigner
-060,50,Healthy,(1365032, 103910984),Singaporean Citizen
-061,33,Healthy,(1378394, 103912608),Singaporean Citizen
-062,5,Infected,(1319718, 103913799),Singaporean Citizen
-063,33,Infected,(1314127, 103912116),Foreigner
-064,47,Infected,(1367209, 103912226),Foreigner
-065,74,Healthy,(1315658, 103910634),Singaporean Citizen
-066,49,Infected,(1352001, 103911577),Singaporean Citizen
-067,64,Healthy,(1352436, 103913652),Foreigner
-068,61,Healthy,(1340028, 103913820),Singaporean Citizen
-069,6,Healthy,(1376656, 103914712),Foreigner
-070,24,Infected,(1402101, 103912874),Foreigner
-071,59,Healthy,(1399118, 103911757),Singaporean Citizen
-072,24,Healthy,(1345348, 103912170),Singaporean Citizen
-073,98,Infected,(1344947, 103912147),Foreigner
-074,38,Infected,(1311649, 103913647),Foreigner
-075,9,Infected,(1339933, 103914614),Singaporean Citizen
-076,66,Healthy,(1320146, 103913060),Foreigner
-077,19,Healthy,(1341581, 103912079),Foreigner
-078,36,Infected,(1386798, 103912553),Foreigner
-079,41,Healthy,(1314926, 103913343),Foreigner
-080,27,Infected,(1297234, 103911997),Singaporean Citizen
-081,4,Healthy,(1419080, 103910877),Foreigner
-082,43,Healthy,(1413176, 103913169),Foreigner
-083,55,Infected,(1368221, 103914163),Singaporean Citizen
-084,19,Healthy,(1418401, 103914121),Foreigner
-085,43,Infected,(1352739, 103911515),Singaporean Citizen
-086,87,Infected,(1400686, 103910317),Singaporean Citizen
-087,8,Healthy,(1404246, 103910266),Singaporean Citizen
-088,65,Healthy,(1308048, 103912851),Singaporean Citizen
-089,84,Healthy,(1329565, 103913339),Singaporean Citizen
-090,59,Infected,(1336779, 103913301),Singaporean Citizen
-091,29,Healthy,(1403042, 103913982),Foreigner
-092,70,Healthy,(1407700, 103913615),Foreigner
-093,76,Infected,(1399994, 103913557),Foreigner
-094,4,Infected,(1407162, 103911140),Singaporean Citizen
-095,68,Healthy,(1376706, 103913688),Foreigner
-096,5,Healthy,(1303657, 103911848),Foreigner
-097,89,Infected,(1313498, 103914771),Singaporean Citizen
-098,86,Infected,(1304292, 103914342),Singaporean Citizen
-099,62,Healthy,(1344334, 103910720),Singaporean Citizen
-100,57,Healthy,(1366065, 103911280),Foreigner
-101,39,Healthy,(1372741, 103910562),Foreigner
-102,42,Infected,(1303404, 103911243),Singaporean Citizen
-103,74,Healthy,(1367448, 103910968),Foreigner
-104,4,Infected,(1415300, 103913532),Singaporean Citizen
-105,86,Infected,(1327936, 103914333),Singaporean Citizen
-106,29,Healthy,(1362664, 103911745),Singaporean Citizen
-107,97,Healthy,(1359321, 103912490),Foreigner
-108,22,Healthy,(1307394, 103913596),Singaporean Citizen
-109,96,Infected,(1339626, 103912068),Singaporean Citizen
-110,9,Infected,(1357745, 103912745),Foreigner
-111,54,Infected,(1414687, 103914047),Singaporean Citizen
-112,13,Healthy,(1306499, 103914108),Foreigner
-113,92,Infected,(1387449, 103913971),Singaporean Citizen
-114,34,Infected,(1335479, 103914236),Singaporean Citizen
-115,6,Infected,(1408369, 103912358),Foreigner
-116,24,Healthy,(1391387, 103912104),Foreigner
-117,42,Infected,(1418893, 103913531),Foreigner
-118,69,Healthy,(1380693, 103911121),Foreigner
-119,47,Healthy,(1413608, 103913585),Singaporean Citizen
-120,85,Infected,(1343959, 103910678),Foreigner
-121,98,Healthy,(1392499, 103910656),Singaporean Citizen
-122,92,Healthy,(1411161, 103913329),Singaporean Citizen
-123,62,Infected,(1368518, 103913218),Singaporean Citizen
-124,34,Infected,(1407536, 103913941),Foreigner
-125,47,Healthy,(1369460, 103913313),Foreigner
-126,61,Infected,(1335015, 103914650),Singaporean Citizen
-127,36,Healthy,(1357092, 103912078),Foreigner
-128,25,Healthy,(1404636, 103910346),Singaporean Citizen
-129,51,Healthy,(1390127, 103910684),Foreigner
-130,93,Healthy,(1308352, 103912761),Singaporean Citizen
-131,38,Healthy,(1393616, 103914168),Singaporean Citizen
-132,29,Healthy,(1336439, 103912007),Singaporean Citizen
-133,5,Healthy,(1329865, 103913922),Singaporean Citizen
-134,8,Infected,(1312158, 103911045),Singaporean Citizen
-135,73,Infected,(1303248, 103914694),Foreigner
-136,82,Infected,(1327287, 103913056),Singaporean Citizen
-137,4,Infected,(1353430, 103913205),Foreigner
-138,59,Healthy,(1357445, 103912093),Singaporean Citizen
-139,94,Healthy,(1318517, 103914000),Singaporean Citizen
-140,69,Infected,(1390788, 103914768),Singaporean Citizen
-141,14,Healthy,(1418857, 103911970),Singaporean Citizen
-142,91,Infected,(1415889, 103913888),Singaporean Citizen
-143,42,Infected,(1349570, 103912393),Foreigner
-144,72,Healthy,(1299478, 103914718),Foreigner
-145,88,Infected,(1367274, 103912400),Singaporean Citizen
-146,39,Infected,(1386159, 103910904),Foreigner
-147,7,Infected,(1299563, 103913003),Singaporean Citizen
-148,16,Healthy,(1339209, 103913983),Foreigner
-149,92,Healthy,(1304234, 103912711),Foreigner
-150,89,Healthy,(1335727, 103913570),Foreigner
-151,24,Healthy,(1341848, 103914390),Foreigner
-152,31,Infected,(1409959, 103910564),Singaporean Citizen
-153,98,Healthy,(1417314, 103914658),Foreigner
-154,74,Healthy,(1363549, 103911530),Singaporean Citizen
-155,31,Healthy,(1419166, 103913919),Foreigner
-156,15,Healthy,(1322750, 103910913),Foreigner
-157,15,Healthy,(1417881, 103912309),Singaporean Citizen
-158,43,Healthy,(1313783, 103914332),Foreigner
-159,56,Infected,(1402392, 103910936),Singaporean Citizen
-160,24,Infected,(1407556, 103914725),Singaporean Citizen
-161,24,Healthy,(1306002, 103913548),Foreigner
-162,27,Healthy,(1370529, 103913390),Foreigner
-163,19,Infected,(1300206, 103911861),Singaporean Citizen
-164,39,Infected,(1318895, 103911036),Foreigner
-165,15,Infected,(1374531, 103914543),Singaporean Citizen
-166,47,Healthy,(1388618, 103914086),Singaporean Citizen
-167,13,Healthy,(1416491, 103911855),Foreigner
-168,71,Healthy,(1391989, 103914382),Foreigner
-169,24,Healthy,(1371677, 103910468),Singaporean Citizen
-170,41,Infected,(1308976, 103913898),Foreigner
-171,52,Infected,(1323098, 103913936),Singaporean Citizen
-172,95,Infected,(1305802, 103910424),Singaporean Citizen
-173,46,Healthy,(1328242, 103913895),Singaporean Citizen
-174,51,Healthy,(1362270, 103914497),Singaporean Citizen
-175,29,Infected,(1382569, 103910590),Singaporean Citizen
-176,46,Healthy,(1347456, 103914628),Singaporean Citizen
-177,30,Infected,(1344741, 103912427),Foreigner
-178,62,Healthy,(1318575, 103914642),Singaporean Citizen
-179,86,Infected,(1357467, 103910654),Foreigner
-180,10,Infected,(1400977, 103910878),Foreigner
-181,35,Infected,(1364642, 103913532),Singaporean Citizen
-182,25,Healthy,(1305436, 103910297),Singaporean Citizen
-183,43,Healthy,(1394889, 103912768),Singaporean Citizen
-184,35,Healthy,(1351017, 103912400),Singaporean Citizen
-185,60,Infected,(1366195, 103914667),Singaporean Citizen
-186,71,Infected,(1304230, 103911504),Foreigner
-187,1,Healthy,(1339682, 103911995),Singaporean Citizen
-188,72,Infected,(1410182, 103912926),Foreigner
-189,34,Infected,(1396213, 103911561),Foreigner
-190,52,Healthy,(1420258, 103911667),Foreigner
-191,79,Healthy,(1334908, 103914613),Foreigner
-192,88,Healthy,(1339027, 103911591),Foreigner
-193,95,Infected,(1336009, 103910526),Foreigner
-194,53,Infected,(1361244, 103913889),Singaporean Citizen
-195,35,Infected,(1314389, 103910321),Singaporean Citizen
-196,50,Infected,(1387874, 103912880),Foreigner
-197,86,Healthy,(1322776, 103913766),Singaporean Citizen
-198,33,Infected,(1316087, 103911128),Singaporean Citizen
-199,85,Healthy,(1395180, 103911351),Singaporean Citizen
-200,88,Infected,(1305850, 103913111),Singaporean Citizen
-201,31,Infected,(1382194, 103913908),Singaporean Citizen
-202,28,Infected,(1405698, 103911041),Foreigner
-203,59,Infected,(1363326, 103911069),Foreigner
-204,10,Infected,(1363492, 103913566),Singaporean Citizen
-205,25,Infected,(1334472, 103913889),Foreigner
-206,36,Healthy,(1327852, 103910497),Singaporean Citizen
-207,7,Infected,(1343601, 103913387),Foreigner
-208,60,Healthy,(1328749, 103913901),Foreigner
-209,62,Infected,(1381848, 103911166),Foreigner
-210,9,Healthy,(1384989, 103912809),Singaporean Citizen
-211,42,Infected,(1373146, 103912689),Singaporean Citizen
-212,92,Healthy,(1409225, 103912890),Foreigner
-213,68,Infected,(1314615, 103912475),Foreigner
-214,70,Healthy,(1332670, 103911354),Foreigner
-215,86,Healthy,(1309020, 103913826),Singaporean Citizen
-216,37,Healthy,(1386600, 103911364),Singaporean Citizen
-217,90,Healthy,(1400233, 103913571),Foreigner
-218,84,Infected,(1416938, 103911897),Foreigner
-219,40,Healthy,(1315567, 103913523),Singaporean Citizen
-220,70,Healthy,(1364900, 103911355),Singaporean Citizen
-221,8,Healthy,(1408108, 103913816),Foreigner
-222,36,Infected,(1332888, 103914110),Foreigner
-223,61,Healthy,(1402457, 103911474),Foreigner
-224,79,Healthy,(1318547, 103912755),Singaporean Citizen
-225,70,Infected,(1377454, 103912214),Foreigner
-226,45,Infected,(1339343, 103913718),Singaporean Citizen
-227,4,Infected,(1414118, 103914116),Foreigner
-228,37,Infected,(1368305, 103910694),Foreigner
-229,65,Infected,(1331604, 103912482),Singaporean Citizen
-230,80,Infected,(1311666, 103912926),Foreigner
-231,75,Infected,(1332416, 103914133),Singaporean Citizen
-232,35,Infected,(1384342, 103910654),Singaporean Citizen
-233,96,Infected,(1335366, 103912604),Foreigner
-234,50,Infected,(1321961, 103910814),Foreigner
-235,99,Healthy,(1304097, 103910936),Singaporean Citizen
-236,11,Infected,(1395870, 103913582),Singaporean Citizen
-237,10,Healthy,(1393710, 103910557),Singaporean Citizen
-238,69,Healthy,(1399776, 103910861),Singaporean Citizen
-239,39,Healthy,(1368409, 103911030),Singaporean Citizen
-240,69,Healthy,(1348167, 103914134),Foreigner
-241,18,Healthy,(1337715, 103914481),Singaporean Citizen
-242,76,Infected,(1382701, 103910837),Foreigner
-243,88,Healthy,(1401348, 103914177),Singaporean Citizen
-244,33,Healthy,(1353593, 103913248),Foreigner
-245,66,Healthy,(1335701, 103911027),Singaporean Citizen
-246,6,Healthy,(1331140, 103913793),Foreigner
-247,10,Healthy,(1384325, 103914093),Singaporean Citizen
-248,43,Healthy,(1422526, 103911343),Singaporean Citizen
-249,68,Infected,(1403359, 103913199),Foreigner
-250,59,Healthy,(1359462, 103913023),Singaporean Citizen
-251,82,Infected,(1299323, 103914380),Foreigner
-252,68,Healthy,(1398623, 103912036),Foreigner
-253,34,Infected,(1373604, 103913768),Singaporean Citizen
-254,14,Healthy,(1330566, 103911261),Foreigner
-255,68,Healthy,(1407283, 103914182),Foreigner
-256,34,Healthy,(1354757, 103914446),Foreigner
-257,59,Infected,(1414904, 103911347),Singaporean Citizen
-258,73,Infected,(1341017, 103911839),Foreigner
-259,14,Infected,(1389047, 103911555),Foreigner
-260,46,Healthy,(1337275, 103912865),Singaporean Citizen
-261,47,Healthy,(1319984, 103911105),Singaporean Citizen
-262,50,Healthy,(1405473, 103910498),Foreigner
-263,79,Infected,(1329240, 103911084),Singaporean Citizen
-264,31,Infected,(1302095, 103914397),Foreigner
-265,25,Healthy,(1348369, 103913394),Foreigner
-266,94,Healthy,(1303965, 103912434),Singaporean Citizen
-267,57,Infected,(1326669, 103913117),Foreigner
-268,56,Healthy,(1330914, 103914277),Singaporean Citizen
-269,84,Healthy,(1309204, 103912354),Foreigner
-270,63,Infected,(1363302, 103910899),Singaporean Citizen
-271,65,Infected,(1397086, 103912736),Singaporean Citizen
-272,44,Healthy,(1301454, 103910926),Foreigner
-273,81,Healthy,(1415345, 103911441),Singaporean Citizen
-274,68,Infected,(1414257, 103910484),Foreigner
-275,42,Healthy,(1374521, 103912942),Singaporean Citizen
-276,18,Infected,(1299919, 103912253),Singaporean Citizen
-277,91,Healthy,(1395779, 103910451),Singaporean Citizen
-278,50,Infected,(1320396, 103911197),Singaporean Citizen
-279,16,Infected,(1398925, 103911824),Singaporean Citizen
-280,64,Infected,(1302353, 103910592),Singaporean Citizen
-281,15,Infected,(1422468, 103914523),Foreigner
-282,37,Healthy,(1351993, 103911102),Singaporean Citizen
-283,59,Healthy,(1310054, 103914125),Singaporean Citizen
-284,86,Infected,(1354958, 103913629),Foreigner
-285,71,Healthy,(1326496, 103910829),Singaporean Citizen
-286,92,Infected,(1401022, 103912476),Singaporean Citizen
-287,53,Healthy,(1375952, 103913913),Singaporean Citizen
-288,27,Infected,(1347440, 103911159),Foreigner
-289,3,Infected,(1379166, 103914570),Foreigner
-290,47,Infected,(1376478, 103910663),Singaporean Citizen
-291,33,Infected,(1417287, 103911312),Singaporean Citizen
-292,14,Healthy,(1308682, 103914455),Singaporean Citizen
-293,15,Healthy,(1304010, 103914092),Foreigner
-294,17,Healthy,(1374737, 103914189),Singaporean Citizen
-295,47,Healthy,(1353189, 103914425),Foreigner
-296,39,Healthy,(1319303, 103910739),Singaporean Citizen
-297,50,Infected,(1331202, 103910308),Singaporean Citizen
-298,65,Healthy,(1369890, 103912101),Singaporean Citizen
-299,84,Healthy,(1374896, 103913770),Singaporean Citizen
-300,5,Healthy,(1302422, 103913194),Singaporean Citizen
-301,63,Infected,(1399995, 103911803),Singaporean Citizen
-302,46,Healthy,(1374174, 103914142),Foreigner
-303,52,Healthy,(1372762, 103913536),Singaporean Citizen
-304,77,Healthy,(1330063, 103912955),Singaporean Citizen
-305,88,Healthy,(1363317, 103912193),Singaporean Citizen
-306,17,Infected,(1321908, 103910932),Singaporean Citizen
-307,22,Infected,(1319564, 103911266),Foreigner
-308,8,Infected,(1405881, 103912174),Singaporean Citizen
-309,35,Healthy,(1349996, 103914125),Foreigner
-310,60,Infected,(1385799, 103911903),Singaporean Citizen
-311,97,Healthy,(1317757, 103913653),Singaporean Citizen
-312,4,Healthy,(1370669, 103910429),Foreigner
-313,18,Healthy,(1307376, 103912731),Foreigner
-314,5,Healthy,(1365167, 103914052),Singaporean Citizen
-315,54,Healthy,(1332950, 103910491),Foreigner
-316,100,Healthy,(1298141, 103910619),Foreigner
-317,71,Infected,(1346136, 103912855),Foreigner
-318,93,Infected,(1393941, 103913321),Foreigner
-319,60,Healthy,(1329681, 103914190),Singaporean Citizen
-320,34,Infected,(1392202, 103913138),Foreigner
-321,91,Healthy,(1391793, 103914138),Foreigner
-322,72,Healthy,(1411343, 103910929),Singaporean Citizen
-323,50,Healthy,(1308445, 103912193),Singaporean Citizen
-324,49,Healthy,(1390217, 103913392),Singaporean Citizen
-325,59,Healthy,(1297263, 103910530),Foreigner
-326,85,Infected,(1298535, 103913811),Singaporean Citizen
-327,85,Healthy,(1389922, 103910268),Foreigner
-328,77,Infected,(1366561, 103910438),Foreigner
-329,63,Infected,(1392870, 103913932),Foreigner
-330,73,Healthy,(1333211, 103913478),Singaporean Citizen
-331,100,Healthy,(1372116, 103912648),Foreigner
-332,70,Infected,(1334078, 103911643),Foreigner
-333,88,Infected,(1303899, 103912560),Singaporean Citizen
-334,13,Infected,(1407474, 103910281),Foreigner
-335,6,Infected,(1410882, 103913627),Foreigner
-336,60,Infected,(1403049, 103910468),Singaporean Citizen
-337,90,Healthy,(1422105, 103912955),Singaporean Citizen
-338,3,Healthy,(1307985, 103912206),Singaporean Citizen
-339,75,Healthy,(1378392, 103910372),Foreigner
-340,58,Healthy,(1409764, 103912833),Foreigner
-341,79,Infected,(1349954, 103910992),Foreigner
-342,81,Infected,(1341219, 103911383),Foreigner
-343,7,Infected,(1332884, 103911159),Foreigner
-344,29,Infected,(1353520, 103913764),Singaporean Citizen
-345,3,Healthy,(1304116, 103913765),Foreigner
-346,85,Infected,(1303817, 103913259),Singaporean Citizen
-347,42,Healthy,(1309815, 103913233),Singaporean Citizen
-348,73,Healthy,(1382601, 103910867),Foreigner
-349,64,Healthy,(1330859, 103913013),Foreigner
-350,83,Healthy,(1312501, 103911347),Singaporean Citizen
-351,90,Infected,(1389040, 103913634),Singaporean Citizen
-352,30,Healthy,(1337189, 103913814),Foreigner
-353,92,Healthy,(1367165, 103912590),Singaporean Citizen
-354,36,Healthy,(1375249, 103912898),Singaporean Citizen
-355,49,Infected,(1339821, 103912540),Singaporean Citizen
-356,62,Infected,(1362485, 103913376),Singaporean Citizen
-357,81,Healthy,(1391359, 103912734),Foreigner
-358,78,Infected,(1378320, 103913331),Foreigner
-359,23,Healthy,(1357600, 103912881),Singaporean Citizen
-360,55,Infected,(1305635, 103910920),Foreigner
-361,87,Infected,(1398903, 103912262),Singaporean Citizen
-362,32,Infected,(1370524, 103913676),Singaporean Citizen
-363,99,Infected,(1323708, 103912324),Foreigner
-364,49,Infected,(1375083, 103912981),Foreigner
-365,60,Healthy,(1403282, 103914382),Foreigner
-366,57,Infected,(1324318, 103914280),Singaporean Citizen
-367,75,Infected,(1416297, 103914090),Foreigner
-368,68,Healthy,(1310221, 103912804),Singaporean Citizen
-369,68,Healthy,(1372042, 103911900),Foreigner
-370,85,Infected,(1299195, 103911579),Foreigner
-371,27,Infected,(1373171, 103912231),Singaporean Citizen
-372,79,Healthy,(1381984, 103913936),Singaporean Citizen
-373,26,Infected,(1389883, 103912286),Singaporean Citizen
-374,26,Infected,(1405627, 103911881),Foreigner
-375,52,Healthy,(1361057, 103912204),Singaporean Citizen
-376,46,Healthy,(1323502, 103912287),Singaporean Citizen
-377,36,Infected,(1339078, 103914156),Singaporean Citizen
-378,34,Infected,(1336251, 103910404),Foreigner
-379,4,Infected,(1393133, 103914161),Foreigner
-380,66,Healthy,(1399421, 103913306),Singaporean Citizen
-381,43,Healthy,(1411815, 103913465),Foreigner
-382,43,Infected,(1305592, 103911176),Foreigner
-383,91,Infected,(1339759, 103912385),Foreigner
-384,94,Infected,(1310269, 103911010),Singaporean Citizen
-385,71,Healthy,(1400267, 103914058),Singaporean Citizen
-386,66,Healthy,(1340439, 103912794),Singaporean Citizen
-387,17,Healthy,(1305835, 103914390),Singaporean Citizen
-388,8,Healthy,(1402401, 103913174),Singaporean Citizen
-389,41,Infected,(1305030, 103910779),Foreigner
-390,62,Infected,(1355568, 103911072),Singaporean Citizen
-391,13,Infected,(1342220, 103914048),Singaporean Citizen
-392,64,Healthy,(1352098, 103912296),Singaporean Citizen
-393,50,Infected,(1348637, 103910894),Singaporean Citizen
-394,21,Healthy,(1308899, 103910875),Singaporean Citizen
-395,49,Healthy,(1392279, 103910566),Foreigner
-396,83,Infected,(1301682, 103911019),Foreigner
-397,46,Infected,(1387620, 103914471),Foreigner
-398,62,Infected,(1320536, 103914022),Singaporean Citizen
-399,55,Healthy,(1331603, 103910726),Foreigner
-400,28,Infected,(1311188, 103912906),Foreigner
-401,15,Infected,(1370489, 103911370),Foreigner
-402,79,Infected,(1365825, 103911212),Singaporean Citizen
-403,38,Infected,(1405457, 103911433),Singaporean Citizen
-404,62,Infected,(1404165, 103913879),Singaporean Citizen
-405,42,Infected,(1422297, 103911853),Foreigner
-406,86,Infected,(1410682, 103910413),Singaporean Citizen
-407,60,Infected,(1358839, 103912405),Foreigner
-408,65,Infected,(1318163, 103910511),Singaporean Citizen
-409,53,Infected,(1367332, 103911188),Foreigner
-410,31,Healthy,(1298180, 103913089),Foreigner
-411,54,Infected,(1333296, 103911020),Foreigner
-412,36,Infected,(1384507, 103913598),Singaporean Citizen
-413,80,Infected,(1362134, 103914184),Singaporean Citizen
-414,6,Infected,(1368287, 103912135),Singaporean Citizen
-415,19,Healthy,(1421113, 103911193),Singaporean Citizen
-416,78,Infected,(1378026, 103911729),Foreigner
-417,9,Healthy,(1327074, 103911995),Singaporean Citizen
-418,89,Healthy,(1308117, 103913414),Foreigner
-419,68,Healthy,(1337659, 103911610),Singaporean Citizen
-420,43,Infected,(1388378, 103911844),Foreigner
-421,65,Healthy,(1353773, 103913423),Foreigner
-422,79,Healthy,(1411418, 103913432),Singaporean Citizen
-423,73,Infected,(1394341, 103912690),Singaporean Citizen
-424,36,Infected,(1316746, 103913554),Singaporean Citizen
-425,61,Healthy,(1337446, 103913645),Singaporean Citizen
-426,14,Healthy,(1338206, 103912856),Foreigner
-427,12,Healthy,(1368905, 103910502),Foreigner
-428,28,Healthy,(1343172, 103912619),Foreigner
-429,53,Healthy,(1310098, 103910468),Foreigner
-430,98,Healthy,(1328935, 103914765),Foreigner
-431,57,Healthy,(1382847, 103912832),Singaporean Citizen
-432,38,Infected,(1343105, 103912068),Foreigner
-433,54,Infected,(1379768, 103910380),Foreigner
-434,1,Healthy,(1386472, 103911259),Foreigner
-435,14,Healthy,(1342057, 103911601),Foreigner
-436,74,Healthy,(1386731, 103912240),Singaporean Citizen
-437,91,Healthy,(1392352, 103913231),Foreigner
-438,16,Infected,(1388257, 103912315),Foreigner
-439,97,Healthy,(1300520, 103912500),Foreigner
-440,4,Infected,(1341192, 103912137),Foreigner
-441,63,Infected,(1368638, 103913284),Singaporean Citizen
-442,15,Healthy,(1407841, 103914657),Singaporean Citizen
-443,22,Infected,(1415879, 103914378),Foreigner
-444,45,Infected,(1314623, 103910977),Singaporean Citizen
-445,94,Healthy,(1415140, 103911775),Singaporean Citizen
-446,29,Infected,(1325156, 103910397),Foreigner
-447,82,Healthy,(1298444, 103913043),Singaporean Citizen
-448,16,Healthy,(1412513, 103913035),Foreigner
-449,78,Healthy,(1360442, 103912490),Singaporean Citizen
-450,80,Healthy,(1407906, 103913598),Singaporean Citizen
-451,14,Infected,(1353485, 103911059),Foreigner
-452,72,Healthy,(1366866, 103912432),Singaporean Citizen
-453,27,Infected,(1364259, 103914158),Foreigner
-454,81,Infected,(1306626, 103914747),Singaporean Citizen
-455,8,Infected,(1331285, 103913556),Foreigner
-456,60,Healthy,(1385896, 103910957),Singaporean Citizen
-457,51,Healthy,(1374313, 103910846),Singaporean Citizen
-458,87,Infected,(1303718, 103911341),Singaporean Citizen
-459,19,Healthy,(1384971, 103911562),Singaporean Citizen
-460,41,Infected,(1320116, 103913858),Foreigner
-461,8,Healthy,(1366049, 103910575),Singaporean Citizen
-462,60,Healthy,(1329718, 103911602),Singaporean Citizen
-463,88,Healthy,(1329727, 103913289),Foreigner
-464,81,Infected,(1384408, 103911897),Foreigner
-465,100,Healthy,(1408141, 103913843),Singaporean Citizen
-466,15,Healthy,(1372799, 103913210),Foreigner
-467,82,Healthy,(1391590, 103913047),Foreigner
-468,21,Healthy,(1415596, 103912697),Foreigner
-469,7,Infected,(1337221, 103910699),Singaporean Citizen
-470,63,Healthy,(1361021, 103913453),Foreigner
-471,62,Healthy,(1369383, 103913257),Singaporean Citizen
-472,2,Infected,(1328305, 103911445),Foreigner
-473,43,Healthy,(1396288, 103913441),Foreigner
-474,67,Infected,(1418888, 103910808),Singaporean Citizen
-475,64,Infected,(1317517, 103914250),Foreigner
-476,23,Healthy,(1383914, 103913349),Foreigner
-477,45,Infected,(1410338, 103912174),Singaporean Citizen
-478,89,Infected,(1321819, 103914720),Singaporean Citizen
-479,4,Healthy,(1317308, 103910261),Singaporean Citizen
-480,14,Healthy,(1409350, 103910606),Foreigner
-481,8,Infected,(1350646, 103913083),Foreigner
-482,11,Healthy,(1334309, 103910651),Foreigner
-483,4,Infected,(1414404, 103911496),Foreigner
-484,78,Healthy,(1342390, 103912114),Singaporean Citizen
-485,12,Infected,(1340442, 103911944),Singaporean Citizen
-486,6,Healthy,(1318942, 103913394),Foreigner
-487,2,Infected,(1384693, 103910696),Singaporean Citizen
-488,35,Infected,(1332756, 103911960),Foreigner
-489,14,Infected,(1393843, 103912266),Foreigner
-490,33,Healthy,(1362215, 103910848),Foreigner
-491,91,Infected,(1339544, 103910841),Foreigner
-492,38,Healthy,(1330809, 103913949),Foreigner
-493,16,Infected,(1379782, 103913218),Singaporean Citizen
-494,79,Healthy,(1306890, 103910678),Foreigner
-495,99,Healthy,(1370574, 103912956),Singaporean Citizen
-496,54,Healthy,(1301696, 103911469),Singaporean Citizen
-497,55,Healthy,(1422665, 103911462),Foreigner
-498,15,Infected,(1413634, 103913129),Singaporean Citizen
-499,48,Healthy,(1329580, 103914284),Foreigner
-500,23,Infected,(1314163, 103911885),Foreigner
-501,83,Infected,(1404946, 103914754),Singaporean Citizen
-502,2,Healthy,(1326638, 103910342),Singaporean Citizen
-503,19,Healthy,(1311567, 103913682),Singaporean Citizen
-504,2,Healthy,(1404294, 103912224),Singaporean Citizen
-505,39,Infected,(1306345, 103912145),Foreigner
-506,54,Infected,(1310415, 103914028),Foreigner
-507,93,Healthy,(1298764, 103912465),Singaporean Citizen
-508,85,Healthy,(1317121, 103910790),Singaporean Citizen
-509,52,Healthy,(1318727, 103912163),Singaporean Citizen
-510,81,Healthy,(1383708, 103914337),Singaporean Citizen
-511,57,Healthy,(1422771, 103911806),Singaporean Citizen
-512,89,Infected,(1419017, 103913743),Singaporean Citizen
-513,25,Infected,(1346798, 103910261),Singaporean Citizen
-514,39,Healthy,(1334623, 103911381),Singaporean Citizen
-515,3,Healthy,(1326666, 103914601),Singaporean Citizen
-516,24,Healthy,(1341654, 103912321),Singaporean Citizen
-517,1,Healthy,(1360222, 103911165),Foreigner
-518,97,Infected,(1368180, 103912791),Singaporean Citizen
-519,93,Infected,(1310695, 103911327),Singaporean Citizen
-520,91,Infected,(1417215, 103911751),Foreigner
-521,70,Healthy,(1305693, 103911267),Foreigner
-522,69,Infected,(1335311, 103913366),Singaporean Citizen
-523,70,Healthy,(1346010, 103912022),Singaporean Citizen
-524,98,Healthy,(1339005, 103913026),Foreigner
-525,8,Healthy,(1357592, 103911378),Singaporean Citizen
-526,80,Infected,(1347502, 103912694),Singaporean Citizen
-527,66,Infected,(1385362, 103912396),Singaporean Citizen
-528,97,Infected,(1377005, 103911552),Foreigner
-529,82,Healthy,(1393249, 103913717),Foreigner
-530,81,Healthy,(1387974, 103911470),Singaporean Citizen
-531,39,Infected,(1388768, 103911297),Foreigner
-532,67,Healthy,(1422482, 103913838),Singaporean Citizen
-533,3,Infected,(1359631, 103914227),Foreigner
-534,72,Healthy,(1340998, 103911394),Singaporean Citizen
-535,70,Healthy,(1309953, 103913258),Foreigner
-536,73,Infected,(1317686, 103914143),Singaporean Citizen
-537,91,Infected,(1352933, 103913696),Singaporean Citizen
-538,67,Healthy,(1332010, 103912076),Foreigner
-539,89,Healthy,(1315250, 103910363),Foreigner
-540,41,Healthy,(1300676, 103913187),Singaporean Citizen
-541,69,Healthy,(1396161, 103910739),Foreigner
-542,66,Healthy,(1414384, 103913527),Singaporean Citizen
-543,23,Healthy,(1415806, 103912769),Foreigner
-544,37,Healthy,(1361331, 103912312),Foreigner
-545,93,Healthy,(1418352, 103912282),Foreigner
-546,41,Healthy,(1357462, 103913537),Singaporean Citizen
-547,86,Infected,(1304728, 103914044),Foreigner
-548,27,Healthy,(1346537, 103914568),Singaporean Citizen
-549,41,Healthy,(1376257, 103910591),Singaporean Citizen
-550,81,Healthy,(1407879, 103911609),Singaporean Citizen
-551,52,Infected,(1326876, 103910609),Singaporean Citizen
-552,82,Infected,(1419057, 103912607),Foreigner
-553,17,Infected,(1392024, 103912547),Foreigner
-554,31,Healthy,(1392840, 103913726),Foreigner
-555,52,Infected,(1358910, 103913376),Foreigner
-556,29,Infected,(1349470, 103911505),Foreigner
-557,90,Healthy,(1415585, 103910424),Singaporean Citizen
-558,97,Infected,(1416058, 103914229),Singaporean Citizen
-559,70,Infected,(1315796, 103913245),Foreigner
-560,2,Infected,(1325415, 103912041),Singaporean Citizen
-561,82,Healthy,(1366717, 103911149),Foreigner
-562,61,Healthy,(1395121, 103913459),Singaporean Citizen
-563,34,Infected,(1394300, 103912735),Singaporean Citizen
-564,39,Healthy,(1365146, 103913090),Foreigner
-565,83,Infected,(1318763, 103912544),Foreigner
-566,79,Healthy,(1393639, 103913273),Foreigner
-567,98,Healthy,(1385197, 103912141),Foreigner
-568,78,Healthy,(1318410, 103913003),Singaporean Citizen
-569,91,Healthy,(1364385, 103910780),Singaporean Citizen
-570,26,Healthy,(1393850, 103913132),Singaporean Citizen
-571,2,Healthy,(1358728, 103913239),Singaporean Citizen
-572,21,Healthy,(1349161, 103913428),Foreigner
-573,14,Healthy,(1309410, 103914440),Foreigner
-574,36,Infected,(1329843, 103912966),Foreigner
-575,56,Healthy,(1354144, 103913542),Singaporean Citizen
-576,88,Infected,(1418344, 103912867),Foreigner
-577,15,Infected,(1409531, 103911893),Singaporean Citizen
-578,29,Healthy,(1323869, 103913548),Singaporean Citizen
-579,92,Healthy,(1409448, 103911743),Foreigner
-580,64,Healthy,(1325472, 103912268),Foreigner
-581,38,Healthy,(1421684, 103912922),Foreigner
-582,47,Healthy,(1318165, 103912663),Foreigner
-583,92,Healthy,(1375453, 103910781),Foreigner
-584,95,Healthy,(1305269, 103913005),Foreigner
-585,58,Healthy,(1415860, 103914219),Singaporean Citizen
-586,27,Infected,(1406039, 103912140),Foreigner
-587,72,Infected,(1384538, 103912008),Foreigner
-588,2,Healthy,(1371399, 103911815),Singaporean Citizen
-589,24,Healthy,(1326966, 103911674),Foreigner
-590,92,Infected,(1336615, 103911833),Singaporean Citizen
-591,85,Infected,(1378631, 103912274),Singaporean Citizen
-592,32,Infected,(1304522, 103911196),Singaporean Citizen
-593,29,Infected,(1343369, 103913043),Singaporean Citizen
-594,91,Infected,(1387054, 103912957),Foreigner
-595,12,Healthy,(1412007, 103913494),Singaporean Citizen
-596,51,Healthy,(1390695, 103914573),Foreigner
-597,10,Infected,(1317631, 103910255),Foreigner
-598,32,Healthy,(1397129, 103913627),Foreigner
-599,71,Healthy,(1385820, 103914180),Singaporean Citizen
-600,53,Healthy,(1409711, 103913061),Singaporean Citizen
-601,84,Healthy,(1336669, 103910979),Singaporean Citizen
-602,57,Healthy,(1360618, 103914716),Foreigner
-603,91,Infected,(1312433, 103910495),Foreigner
-604,48,Healthy,(1418167, 103913886),Foreigner
-605,63,Healthy,(1398538, 103912536),Foreigner
-606,77,Healthy,(1370739, 103911133),Singaporean Citizen
-607,73,Infected,(1392112, 103912196),Singaporean Citizen
-608,46,Healthy,(1393014, 103914401),Singaporean Citizen
-609,60,Healthy,(1366063, 103912460),Singaporean Citizen
-610,3,Infected,(1415514, 103910733),Foreigner
-611,29,Healthy,(1318781, 103913158),Foreigner
-612,17,Infected,(1407996, 103910735),Foreigner
-613,26,Healthy,(1376946, 103914307),Singaporean Citizen
-614,21,Infected,(1324364, 103912835),Singaporean Citizen
-615,83,Healthy,(1409946, 103911607),Singaporean Citizen
-616,60,Infected,(1350433, 103910402),Singaporean Citizen
-617,31,Healthy,(1374178, 103913727),Singaporean Citizen
-618,72,Healthy,(1328974, 103911111),Singaporean Citizen
-619,70,Infected,(1334759, 103913955),Foreigner
-620,100,Infected,(1358571, 103911943),Foreigner
-621,95,Healthy,(1397291, 103911410),Foreigner
-622,62,Healthy,(1338802, 103912299),Singaporean Citizen
-623,25,Healthy,(1315593, 103912512),Foreigner
-624,2,Healthy,(1365607, 103913291),Singaporean Citizen
-625,71,Healthy,(1325477, 103913079),Foreigner
-626,1,Healthy,(1303261, 103913062),Singaporean Citizen
-627,10,Infected,(1310624, 103914515),Foreigner
-628,31,Infected,(1359792, 103914561),Singaporean Citizen
-629,88,Healthy,(1302174, 103913226),Singaporean Citizen
-630,65,Healthy,(1377013, 103914609),Singaporean Citizen
-631,80,Healthy,(1366638, 103912252),Singaporean Citizen
-632,30,Healthy,(1382525, 103913869),Singaporean Citizen
-633,18,Infected,(1393251, 103911842),Singaporean Citizen
-634,5,Healthy,(1361054, 103912615),Singaporean Citizen
-635,70,Infected,(1354442, 103912985),Foreigner
-636,72,Healthy,(1374798, 103912689),Foreigner
-637,4,Healthy,(1373559, 103911995),Foreigner
-638,33,Healthy,(1407172, 103910859),Singaporean Citizen
-639,25,Infected,(1300697, 103912561),Singaporean Citizen
-640,14,Infected,(1328961, 103911424),Singaporean Citizen
-641,49,Healthy,(1369561, 103910306),Foreigner
-642,54,Infected,(1421532, 103913526),Foreigner
-643,5,Healthy,(1339429, 103913513),Singaporean Citizen
-644,44,Healthy,(1296888, 103911490),Foreigner
-645,86,Infected,(1358311, 103914227),Foreigner
-646,75,Healthy,(1335249, 103913134),Foreigner
-647,64,Infected,(1383603, 103914015),Foreigner
-648,74,Infected,(1378529, 103914120),Singaporean Citizen
-649,36,Healthy,(1330084, 103913695),Singaporean Citizen
-650,99,Healthy,(1422820, 103914163),Singaporean Citizen
-651,5,Infected,(1306042, 103911392),Singaporean Citizen
-652,29,Healthy,(1368755, 103910880),Foreigner
-653,16,Healthy,(1371584, 103912020),Foreigner
-654,20,Healthy,(1338440, 103914755),Singaporean Citizen
-655,41,Infected,(1345044, 103911045),Singaporean Citizen
-656,83,Infected,(1368531, 103910852),Singaporean Citizen
-657,36,Infected,(1381387, 103911925),Foreigner
-658,97,Healthy,(1333781, 103911390),Singaporean Citizen
-659,9,Infected,(1315809, 103911488),Singaporean Citizen
-660,47,Healthy,(1343494, 103911883),Foreigner
-661,63,Healthy,(1366784, 103912049),Foreigner
-662,17,Healthy,(1303139, 103914387),Singaporean Citizen
-663,24,Infected,(1414656, 103910741),Foreigner
-664,82,Infected,(1420787, 103913646),Singaporean Citizen
-665,77,Healthy,(1313639, 103911447),Foreigner
-666,72,Healthy,(1362670, 103913278),Singaporean Citizen
-667,53,Infected,(1357449, 103913440),Singaporean Citizen
-668,14,Healthy,(1339876, 103913344),Singaporean Citizen
-669,32,Healthy,(1390379, 103911992),Singaporean Citizen
-670,68,Healthy,(1347719, 103914162),Foreigner
-671,39,Healthy,(1313190, 103914537),Foreigner
-672,40,Healthy,(1386888, 103911035),Foreigner
-673,100,Infected,(1340336, 103911166),Foreigner
-674,64,Healthy,(1378532, 103910872),Singaporean Citizen
-675,17,Healthy,(1422847, 103912370),Singaporean Citizen
-676,33,Infected,(1371514, 103911661),Singaporean Citizen
-677,10,Healthy,(1302604, 103911207),Singaporean Citizen
-678,5,Healthy,(1296806, 103914597),Singaporean Citizen
-679,8,Healthy,(1351112, 103912914),Singaporean Citizen
-680,71,Healthy,(1369309, 103911626),Singaporean Citizen
-681,36,Infected,(1358087, 103914561),Foreigner
-682,95,Healthy,(1422102, 103912388),Singaporean Citizen
-683,35,Infected,(1298842, 103910705),Foreigner
-684,84,Healthy,(1323551, 103910952),Singaporean Citizen
-685,47,Healthy,(1346338, 103913531),Foreigner
-686,30,Healthy,(1373693, 103914163),Foreigner
-687,94,Healthy,(1340839, 103910359),Foreigner
-688,54,Healthy,(1313731, 103911682),Singaporean Citizen
-689,84,Infected,(1301345, 103913240),Singaporean Citizen
-690,76,Healthy,(1368684, 103913302),Singaporean Citizen
-691,64,Healthy,(1363602, 103910520),Foreigner
-692,40,Infected,(1336095, 103912891),Foreigner
-693,24,Healthy,(1327845, 103913297),Singaporean Citizen
-694,19,Infected,(1299625, 103911445),Foreigner
-695,76,Infected,(1330076, 103914039),Singaporean Citizen
-696,48,Infected,(1342175, 103914690),Singaporean Citizen
-697,76,Infected,(1408092, 103910642),Singaporean Citizen
-698,85,Healthy,(1411981, 103911787),Singaporean Citizen
-699,56,Healthy,(1353204, 103913209),Singaporean Citizen
-700,38,Healthy,(1406365, 103912795),Foreigner
-701,36,Infected,(1351513, 103912169),Foreigner
-702,54,Infected,(1317288, 103912036),Foreigner
-703,72,Healthy,(1351688, 103911312),Singaporean Citizen
-704,16,Healthy,(1384611, 103914695),Singaporean Citizen
-705,61,Healthy,(1308134, 103913211),Foreigner
-706,29,Infected,(1382899, 103912891),Singaporean Citizen
-707,89,Healthy,(1351865, 103913101),Foreigner
-708,19,Infected,(1393309, 103910780),Singaporean Citizen
-709,40,Infected,(1338187, 103910388),Foreigner
-710,84,Infected,(1340440, 103913775),Singaporean Citizen
-711,34,Infected,(1307256, 103912675),Singaporean Citizen
-712,49,Healthy,(1420613, 103913886),Singaporean Citizen
-713,26,Healthy,(1409261, 103913666),Foreigner
-714,61,Healthy,(1309346, 103913146),Singaporean Citizen
-715,66,Healthy,(1300411, 103910939),Foreigner
-716,35,Healthy,(1384270, 103914499),Foreigner
-717,63,Healthy,(1422357, 103914337),Singaporean Citizen
-718,22,Infected,(1389400, 103913065),Foreigner
-719,98,Infected,(1349902, 103914599),Singaporean Citizen
-720,29,Infected,(1381868, 103910833),Singaporean Citizen
-721,36,Healthy,(1308287, 103912652),Singaporean Citizen
-722,47,Infected,(1346277, 103912211),Foreigner
-723,34,Infected,(1302767, 103911544),Singaporean Citizen
-724,71,Healthy,(1319734, 103914748),Foreigner
-725,47,Healthy,(1352979, 103914746),Foreigner
-726,30,Healthy,(1330421, 103911309),Foreigner
-727,73,Infected,(1409984, 103913870),Singaporean Citizen
-728,57,Infected,(1359361, 103914487),Foreigner
-729,87,Healthy,(1337080, 103911977),Foreigner
-730,36,Infected,(1324886, 103911945),Singaporean Citizen
-731,96,Healthy,(1391673, 103913101),Singaporean Citizen
-732,13,Infected,(1349067, 103914734),Foreigner
-733,74,Healthy,(1397173, 103911288),Singaporean Citizen
-734,34,Infected,(1343970, 103914653),Singaporean Citizen
-735,45,Infected,(1391393, 103914702),Foreigner
-736,37,Infected,(1386692, 103910665),Singaporean Citizen
-737,97,Healthy,(1307408, 103910380),Foreigner
-738,74,Infected,(1374917, 103911907),Foreigner
-739,29,Healthy,(1365391, 103910407),Foreigner
-740,3,Healthy,(1395290, 103913236),Singaporean Citizen
-741,13,Healthy,(1322430, 103913187),Singaporean Citizen
-742,30,Healthy,(1315603, 103913358),Foreigner
-743,91,Infected,(1349016, 103911551),Foreigner
-744,87,Healthy,(1343945, 103912926),Singaporean Citizen
-745,14,Healthy,(1375302, 103912495),Singaporean Citizen
-746,37,Healthy,(1343998, 103914716),Singaporean Citizen
-747,98,Infected,(1297066, 103911212),Singaporean Citizen
-748,96,Infected,(1305865, 103910576),Foreigner
-749,67,Infected,(1343466, 103914093),Foreigner
-750,81,Infected,(1370939, 103913943),Foreigner
-751,81,Infected,(1370134, 103911647),Singaporean Citizen
-752,61,Infected,(1393674, 103911972),Foreigner
-753,84,Infected,(1421544, 103910892),Foreigner
-754,54,Infected,(1408453, 103914466),Foreigner
-755,86,Healthy,(1372245, 103911432),Foreigner
-756,57,Infected,(1337240, 103910842),Foreigner
-757,23,Healthy,(1316063, 103913592),Foreigner
-758,2,Healthy,(1331765, 103914122),Singaporean Citizen
-759,64,Healthy,(1332374, 103914669),Singaporean Citizen
-760,19,Infected,(1366422, 103911752),Foreigner
-761,41,Infected,(1336511, 103910771),Singaporean Citizen
-762,21,Healthy,(1380474, 103914066),Foreigner
-763,76,Healthy,(1375723, 103913378),Singaporean Citizen
-764,71,Infected,(1354892, 103913932),Foreigner
-765,63,Infected,(1331387, 103913223),Foreigner
-766,28,Infected,(1410162, 103913173),Singaporean Citizen
-767,19,Healthy,(1350389, 103914663),Singaporean Citizen
-768,83,Infected,(1345557, 103911101),Singaporean Citizen
-769,92,Infected,(1373751, 103911382),Singaporean Citizen
-770,76,Infected,(1379727, 103910459),Singaporean Citizen
-771,20,Healthy,(1344755, 103913718),Singaporean Citizen
-772,38,Healthy,(1350208, 103911352),Foreigner
-773,60,Healthy,(1339490, 103911827),Singaporean Citizen
-774,12,Infected,(1374087, 103911620),Foreigner
-775,70,Healthy,(1298728, 103914651),Singaporean Citizen
-776,1,Infected,(1408279, 103913496),Foreigner
-777,10,Infected,(1364947, 103914132),Singaporean Citizen
-778,42,Infected,(1338226, 103912057),Singaporean Citizen
-779,9,Healthy,(1363978, 103912003),Singaporean Citizen
-780,63,Healthy,(1415607, 103910306),Foreigner
-781,23,Healthy,(1308909, 103914761),Singaporean Citizen
-782,52,Infected,(1358967, 103913096),Singaporean Citizen
-783,63,Infected,(1370469, 103912250),Foreigner
-784,35,Healthy,(1339940, 103912218),Foreigner
-785,71,Healthy,(1345511, 103913747),Singaporean Citizen
-786,94,Infected,(1325371, 103913255),Singaporean Citizen
-787,64,Infected,(1298109, 103910264),Singaporean Citizen
-788,6,Infected,(1316315, 103911083),Foreigner
-789,40,Infected,(1387324, 103911452),Foreigner
-790,54,Healthy,(1301263, 103911608),Foreigner
-791,32,Infected,(1297010, 103913290),Singaporean Citizen
-792,51,Healthy,(1342002, 103911027),Foreigner
-793,50,Healthy,(1311051, 103914294),Singaporean Citizen
-794,32,Healthy,(1307471, 103911089),Foreigner
-795,28,Infected,(1388359, 103911872),Singaporean Citizen
-796,88,Healthy,(1391668, 103910579),Singaporean Citizen
-797,30,Infected,(1362391, 103913970),Foreigner
-798,89,Infected,(1365091, 103913877),Singaporean Citizen
-799,79,Infected,(1386295, 103913315),Foreigner
-800,7,Healthy,(1340118, 103913798),Foreigner
-801,35,Healthy,(1382697, 103913404),Foreigner
-802,75,Infected,(1336825, 103910924),Foreigner
-803,33,Healthy,(1355154, 103912194),Foreigner
-804,54,Healthy,(1342254, 103914165),Singaporean Citizen
-805,83,Infected,(1417374, 103912863),Singaporean Citizen
-806,37,Infected,(1345024, 103913318),Singaporean Citizen
-807,92,Healthy,(1354915, 103914692),Foreigner
-808,1,Healthy,(1296811, 103914454),Foreigner
-809,30,Healthy,(1379011, 103911164),Singaporean Citizen
-810,28,Infected,(1418848, 103912852),Foreigner
-811,31,Healthy,(1329082, 103912583),Foreigner
-812,98,Infected,(1380659, 103913548),Foreigner
-813,21,Healthy,(1367587, 103911111),Singaporean Citizen
-814,67,Healthy,(1322492, 103912716),Foreigner
-815,17,Healthy,(1369789, 103913960),Singaporean Citizen
-816,33,Infected,(1357706, 103911295),Singaporean Citizen
-817,4,Healthy,(1343993, 103912114),Foreigner
-818,42,Infected,(1416675, 103910453),Foreigner
-819,8,Healthy,(1407882, 103912178),Singaporean Citizen
-820,15,Infected,(1415046, 103911201),Singaporean Citizen
-821,19,Infected,(1343727, 103913494),Singaporean Citizen
-822,40,Healthy,(1402803, 103912077),Singaporean Citizen
-823,29,Healthy,(1319219, 103912967),Singaporean Citizen
-824,7,Healthy,(1320036, 103913369),Singaporean Citizen
-825,16,Infected,(1311766, 103911496),Foreigner
-826,86,Infected,(1329485, 103913499),Singaporean Citizen
-827,12,Infected,(1362925, 103913588),Singaporean Citizen
-828,97,Healthy,(1352827, 103913795),Foreigner
-829,63,Infected,(1381613, 103913299),Singaporean Citizen
-830,5,Healthy,(1387363, 103910827),Singaporean Citizen
-831,9,Infected,(1298530, 103911508),Foreigner
-832,83,Healthy,(1384494, 103913801),Foreigner
-833,71,Healthy,(1325189, 103913145),Foreigner
-834,93,Infected,(1321341, 103911323),Singaporean Citizen
-835,60,Healthy,(1370021, 103910597),Singaporean Citizen
-836,2,Healthy,(1355603, 103911415),Singaporean Citizen
-837,53,Healthy,(1386890, 103913756),Singaporean Citizen
-838,80,Infected,(1332188, 103911030),Singaporean Citizen
-839,5,Healthy,(1304937, 103912808),Singaporean Citizen
-840,25,Infected,(1362779, 103911462),Foreigner
-841,20,Healthy,(1393667, 103913616),Singaporean Citizen
-842,24,Infected,(1331182, 103913042),Singaporean Citizen
-843,28,Healthy,(1349959, 103911117),Singaporean Citizen
-844,69,Infected,(1311202, 103910587),Singaporean Citizen
-845,30,Infected,(1307703, 103913482),Foreigner
-846,72,Infected,(1398455, 103914614),Foreigner
-847,1,Healthy,(1345478, 103914638),Singaporean Citizen
-848,18,Infected,(1356475, 103913981),Foreigner
-849,61,Infected,(1384936, 103914071),Singaporean Citizen
-850,59,Infected,(1406614, 103910462),Singaporean Citizen
-851,24,Infected,(1387291, 103910336),Foreigner
-852,77,Healthy,(1373151, 103912290),Foreigner
-853,70,Healthy,(1381160, 103914706),Singaporean Citizen
-854,33,Infected,(1318668, 103912423),Singaporean Citizen
-855,95,Healthy,(1314891, 103912535),Singaporean Citizen
-856,60,Healthy,(1394635, 103913773),Foreigner
-857,54,Healthy,(1353644, 103912865),Singaporean Citizen
-858,34,Healthy,(1302532, 103914370),Foreigner
-859,63,Healthy,(1390155, 103913021),Foreigner
-860,84,Infected,(1331779, 103912483),Foreigner
-861,61,Healthy,(1419291, 103913105),Singaporean Citizen
-862,90,Infected,(1358601, 103911072),Foreigner
-863,35,Infected,(1418765, 103914563),Foreigner
-864,39,Healthy,(1400878, 103913343),Singaporean Citizen
-865,10,Healthy,(1390587, 103913759),Foreigner
-866,49,Healthy,(1402572, 103913269),Foreigner
-867,87,Healthy,(1362443, 103913195),Singaporean Citizen
-868,11,Healthy,(1336227, 103914753),Singaporean Citizen
-869,75,Healthy,(1397406, 103914559),Singaporean Citizen
-870,50,Healthy,(1306540, 103912201),Foreigner
-871,90,Healthy,(1395410, 103910819),Singaporean Citizen
-872,38,Infected,(1416681, 103914204),Singaporean Citizen
-873,6,Infected,(1363275, 103913815),Foreigner
-874,13,Infected,(1375102, 103914166),Singaporean Citizen
-875,40,Healthy,(1323317, 103912097),Foreigner
-876,23,Infected,(1315355, 103911057),Singaporean Citizen
-877,16,Infected,(1345656, 103913192),Singaporean Citizen
-878,57,Healthy,(1389681, 103910600),Singaporean Citizen
-879,11,Healthy,(1417153, 103911268),Singaporean Citizen
-880,25,Infected,(1355813, 103914131),Foreigner
-881,26,Infected,(1348927, 103914217),Singaporean Citizen
-882,53,Infected,(1422776, 103911928),Foreigner
-883,31,Healthy,(1305328, 103912716),Singaporean Citizen
-884,30,Healthy,(1377938, 103912200),Singaporean Citizen
-885,22,Healthy,(1324366, 103911162),Foreigner
-886,26,Healthy,(1395706, 103913431),Foreigner
-887,22,Healthy,(1324420, 103912189),Singaporean Citizen
-888,100,Healthy,(1357919, 103914135),Foreigner
-889,41,Healthy,(1298260, 103913526),Foreigner
-890,45,Healthy,(1378749, 103913825),Foreigner
-891,27,Infected,(1378380, 103912937),Singaporean Citizen
-892,59,Infected,(1300493, 103912572),Foreigner
-893,15,Infected,(1358590, 103911627),Foreigner
-894,28,Infected,(1345906, 103913197),Foreigner
-895,99,Healthy,(1388849, 103912867),Singaporean Citizen
-896,55,Infected,(1411390, 103911409),Foreigner
-897,63,Infected,(1381390, 103912632),Foreigner
-898,94,Healthy,(1325372, 103910790),Foreigner
-899,61,Healthy,(1341604, 103910441),Foreigner
-900,54,Infected,(1341569, 103912483),Foreigner
-901,67,Healthy,(1360147, 103914161),Foreigner
-902,15,Healthy,(1317929, 103911187),Singaporean Citizen
-903,43,Infected,(1363266, 103910933),Foreigner
-904,17,Healthy,(1394235, 103912556),Singaporean Citizen
-905,84,Infected,(1397406, 103913579),Singaporean Citizen
-906,11,Infected,(1315811, 103910424),Singaporean Citizen
-907,74,Infected,(1365580, 103911659),Singaporean Citizen
-908,64,Healthy,(1339626, 103911621),Foreigner
-909,85,Infected,(1394438, 103913299),Foreigner
-910,69,Healthy,(1357830, 103910739),Foreigner
-911,58,Infected,(1362633, 103911509),Foreigner
-912,5,Infected,(1355187, 103912036),Singaporean Citizen
-913,1,Healthy,(1314321, 103910333),Foreigner
-914,65,Infected,(1328844, 103914162),Foreigner
-915,5,Infected,(1405230, 103914746),Singaporean Citizen
-916,4,Healthy,(1302042, 103911037),Singaporean Citizen
-917,88,Healthy,(1333285, 103911696),Singaporean Citizen
-918,33,Infected,(1333839, 103914508),Foreigner
-919,47,Healthy,(1383102, 103914144),Singaporean Citizen
-920,59,Infected,(1390852, 103912182),Singaporean Citizen
-921,40,Healthy,(1406849, 103911307),Foreigner
-922,90,Healthy,(1335574, 103910789),Singaporean Citizen
-923,49,Infected,(1389869, 103912011),Foreigner
-924,63,Infected,(1317684, 103913109),Foreigner
-925,20,Healthy,(1392757, 103913795),Foreigner
-926,75,Healthy,(1334922, 103914441),Singaporean Citizen
-927,76,Infected,(1299532, 103913180),Foreigner
-928,82,Infected,(1412311, 103914594),Singaporean Citizen
-929,86,Infected,(1362873, 103910415),Singaporean Citizen
-930,63,Infected,(1320998, 103911298),Foreigner
-931,91,Healthy,(1331498, 103912422),Singaporean Citizen
-932,1,Healthy,(1325700, 103913610),Foreigner
-933,49,Healthy,(1372544, 103913499),Singaporean Citizen
-934,12,Healthy,(1319817, 103914286),Foreigner
-935,49,Healthy,(1384181, 103910362),Singaporean Citizen
-936,4,Infected,(1355404, 103914145),Foreigner
-937,76,Infected,(1388936, 103911618),Singaporean Citizen
-938,7,Healthy,(1404203, 103911152),Singaporean Citizen
-939,16,Healthy,(1389865, 103911981),Foreigner
-940,1,Healthy,(1317331, 103911690),Foreigner
-941,42,Infected,(1317338, 103913410),Singaporean Citizen
-942,57,Infected,(1417616, 103913439),Singaporean Citizen
-943,54,Healthy,(1319857, 103912658),Singaporean Citizen
-944,8,Healthy,(1420864, 103913805),Singaporean Citizen
-945,34,Healthy,(1415538, 103911807),Singaporean Citizen
-946,86,Infected,(1422402, 103914450),Singaporean Citizen
-947,76,Infected,(1353222, 103911005),Singaporean Citizen
-948,45,Healthy,(1297523, 103913479),Singaporean Citizen
-949,49,Healthy,(1339965, 103910308),Foreigner
-950,16,Healthy,(1401286, 103910700),Singaporean Citizen
-951,69,Healthy,(1331112, 103910567),Foreigner
-952,39,Healthy,(1401004, 103913999),Foreigner
-953,52,Healthy,(1346797, 103914558),Foreigner
-954,99,Infected,(1348014, 103911980),Singaporean Citizen
-955,14,Healthy,(1373388, 103914443),Singaporean Citizen
-956,41,Healthy,(1410896, 103910965),Singaporean Citizen
-957,40,Healthy,(1342332, 103914772),Foreigner
-958,39,Healthy,(1306787, 103910799),Foreigner
-959,63,Healthy,(1359837, 103913603),Singaporean Citizen
-960,33,Infected,(1412056, 103914716),Foreigner
-961,31,Healthy,(1303951, 103913614),Foreigner
-962,42,Healthy,(1395907, 103914257),Foreigner
-963,10,Healthy,(1385627, 103913343),Singaporean Citizen
-964,81,Infected,(1303636, 103911166),Foreigner
-965,49,Infected,(1348654, 103914482),Foreigner
-966,65,Infected,(1343760, 103913283),Singaporean Citizen
-967,3,Healthy,(1374265, 103911474),Foreigner
-968,97,Healthy,(1312977, 103914702),Singaporean Citizen
-969,54,Healthy,(1326718, 103914217),Foreigner
-970,35,Infected,(1336250, 103911742),Foreigner
-971,15,Infected,(1421813, 103912163),Foreigner
-972,2,Infected,(1335958, 103913175),Foreigner
-973,5,Healthy,(1371902, 103911242),Singaporean Citizen
-974,1,Healthy,(1356787, 103911723),Singaporean Citizen
-975,42,Healthy,(1412758, 103913307),Foreigner
-976,3,Infected,(1391242, 103910935),Singaporean Citizen
-977,29,Healthy,(1339467, 103911502),Singaporean Citizen
-978,59,Healthy,(1375176, 103910723),Foreigner
-979,13,Infected,(1329139, 103912422),Singaporean Citizen
-980,7,Healthy,(1307487, 103914632),Singaporean Citizen
-981,67,Healthy,(1361665, 103912718),Singaporean Citizen
-982,28,Healthy,(1315870, 103910529),Singaporean Citizen
-983,46,Infected,(1363910, 103914256),Singaporean Citizen
-984,49,Healthy,(1399941, 103914247),Foreigner
-985,46,Infected,(1383710, 103913042),Foreigner
-986,61,Infected,(1306765, 103914656),Singaporean Citizen
-987,63,Infected,(1316967, 103913325),Singaporean Citizen
-988,26,Infected,(1318785, 103912412),Foreigner
-989,1,Infected,(1358553, 103911645),Foreigner
-990,91,Healthy,(1377693, 103911860),Foreigner
-991,30,Infected,(1362920, 103910594),Foreigner
-992,46,Healthy,(1322742, 103912166),Singaporean Citizen
-993,22,Healthy,(1351603, 103910713),Foreigner
-994,81,Infected,(1344872, 103911741),Singaporean Citizen
-995,86,Healthy,(1412547, 103914221),Singaporean Citizen
-996,94,Healthy,(1420381, 103910334),Singaporean Citizen
-997,63,Infected,(1304510, 103914139),Singaporean Citizen
-998,66,Healthy,(1329357, 103913434),Foreigner
-999,42,Healthy,(1372154, 103910761),Singaporean Citizen
+ID, Age,Infection Status,CoordinatesX,CoordinatesY,Residency Status
+001,57,Infected,1377819,103913911,Singaporean Citizen
+002,39,Infected,1321930,103912822,Foreigner
+003,4,Healthy,1412896,103914578,Foreigner
+004,52,Healthy,1420763,103912283,Foreigner
+005,16,Infected,1345895,103910690,Singaporean Citizen
+006,40,Healthy,1357173,103913706,Singaporean Citizen
+007,12,Healthy,1317865,103912130,Foreigner
+008,68,Infected,1414589,103911869,Singaporean Citizen
+009,24,Infected,1374841,103913421,Foreigner
+010,36,Healthy,1410962,103914124,Foreigner
+011,56,Healthy,1348107,103912105,Singaporean Citizen
+012,29,Healthy,1376262,103912908,Foreigner
+013,32,Infected,1369454,103914578,Singaporean Citizen
+014,25,Infected,1307665,103913638,Foreigner
+015,17,Infected,1385946,103910898,Singaporean Citizen
+016,65,Infected,1394197,103911784,Foreigner
+017,10,Healthy,1400118,103911819,Foreigner
+018,1,Infected,1382140,103911235,Singaporean Citizen
+019,79,Healthy,1329962,103910911,Singaporean Citizen
+020,24,Healthy,1405238,103913315,Singaporean Citizen
+021,87,Healthy,1373097,103911791,Foreigner
+022,69,Healthy,1318745,103910523,Singaporean Citizen
+023,3,Healthy,1412242,103912994,Singaporean Citizen
+024,91,Infected,1384349,103913706,Foreigner
+025,36,Infected,1302558,103911781,Foreigner
+026,46,Healthy,1303193,103911889,Foreigner
+027,25,Infected,1352170,103912184,Foreigner
+028,70,Healthy,1331733,103911064,Foreigner
+029,20,Healthy,1313009,103910719,Foreigner
+030,78,Infected,1318931,103914517,Foreigner
+031,69,Infected,1310769,103910583,Singaporean Citizen
+032,51,Infected,1403352,103911839,Singaporean Citizen
+033,79,Healthy,1340817,103912315,Foreigner
+034,71,Healthy,1304908,103913954,Singaporean Citizen
+035,67,Healthy,1345350,103910268,Foreigner
+036,34,Infected,1416314,103913393,Foreigner
+037,25,Infected,1302350,103912763,Foreigner
+038,1,Infected,1339464,103910989,Foreigner
+039,29,Infected,1335622,103910528,Singaporean Citizen
+040,61,Infected,1351863,103911292,Foreigner
+041,91,Healthy,1412093,103913570,Singaporean Citizen
+042,23,Infected,1421550,103913961,Foreigner
+043,7,Infected,1319154,103912584,Singaporean Citizen
+044,84,Healthy,1314029,103912954,Foreigner
+045,35,Healthy,1349874,103912985,Foreigner
+046,49,Infected,1328574,103911940,Singaporean Citizen
+047,10,Infected,1345938,103911221,Singaporean Citizen
+048,10,Healthy,1385295,103910552,Singaporean Citizen
+049,79,Healthy,1310021,103914492,Singaporean Citizen
+050,18,Infected,1303987,103914501,Singaporean Citizen
+051,82,Healthy,1410809,103913141,Foreigner
+052,70,Healthy,1331462,103913343,Foreigner
+053,41,Healthy,1375966,103911674,Singaporean Citizen
+054,41,Healthy,1371692,103911942,Singaporean Citizen
+055,2,Healthy,1393220,103910807,Foreigner
+056,8,Infected,1396707,103911192,Singaporean Citizen
+057,11,Healthy,1316287,103911559,Foreigner
+058,57,Healthy,1395958,103911276,Singaporean Citizen
+059,84,Healthy,1364591,103911878,Singaporean Citizen
+060,19,Infected,1306586,103910327,Foreigner
+061,36,Healthy,1347749,103911078,Foreigner
+062,43,Infected,1342112,103913800,Singaporean Citizen
+063,47,Infected,1320218,103912276,Singaporean Citizen
+064,39,Infected,1358451,103911378,Singaporean Citizen
+065,58,Infected,1359270,103910869,Singaporean Citizen
+066,45,Infected,1420738,103913025,Foreigner
+067,87,Healthy,1349653,103911427,Foreigner
+068,51,Infected,1370623,103912527,Singaporean Citizen
+069,79,Healthy,1388569,103914662,Foreigner
+070,66,Infected,1411207,103910723,Singaporean Citizen
+071,81,Healthy,1312941,103910788,Foreigner
+072,44,Healthy,1322418,103912524,Singaporean Citizen
+073,7,Infected,1388870,103913377,Singaporean Citizen
+074,94,Infected,1351146,103910740,Singaporean Citizen
+075,18,Healthy,1308865,103914430,Singaporean Citizen
+076,98,Infected,1364609,103914577,Foreigner
+077,11,Infected,1399764,103912340,Foreigner
+078,25,Healthy,1345605,103910775,Foreigner
+079,94,Healthy,1355622,103913740,Singaporean Citizen
+080,21,Healthy,1374540,103914132,Singaporean Citizen
+081,81,Healthy,1360898,103910756,Singaporean Citizen
+082,36,Infected,1375177,103912839,Foreigner
+083,49,Infected,1306085,103914090,Foreigner
+084,44,Healthy,1404430,103911613,Foreigner
+085,26,Healthy,1370030,103911989,Foreigner
+086,93,Infected,1356664,103911693,Foreigner
+087,97,Healthy,1320515,103911187,Singaporean Citizen
+088,47,Infected,1382520,103912104,Singaporean Citizen
+089,2,Healthy,1302358,103914105,Singaporean Citizen
+090,88,Healthy,1311223,103912985,Foreigner
+091,68,Healthy,1363461,103912898,Foreigner
+092,79,Healthy,1366654,103911153,Foreigner
+093,46,Healthy,1369767,103911058,Singaporean Citizen
+094,94,Healthy,1340390,103911987,Foreigner
+095,90,Healthy,1398499,103913210,Singaporean Citizen
+096,3,Healthy,1402048,103912795,Foreigner
+097,36,Infected,1412761,103912184,Foreigner
+098,54,Healthy,1362521,103910282,Foreigner
+099,27,Healthy,1369115,103912210,Foreigner
+100,92,Healthy,1403739,103911294,Singaporean Citizen
+101,68,Healthy,1344247,103912949,Foreigner
+102,47,Infected,1422750,103913053,Foreigner
+103,39,Healthy,1304498,103914582,Singaporean Citizen
+104,14,Healthy,1400282,103910881,Foreigner
+105,57,Infected,1374351,103910477,Singaporean Citizen
+106,100,Healthy,1390705,103910555,Foreigner
+107,54,Infected,1413452,103913704,Foreigner
+108,57,Infected,1398072,103913805,Singaporean Citizen
+109,60,Healthy,1352393,103913904,Foreigner
+110,46,Infected,1400561,103914028,Singaporean Citizen
+111,82,Infected,1318775,103910665,Foreigner
+112,95,Healthy,1370498,103913110,Singaporean Citizen
+113,80,Healthy,1422557,103911458,Foreigner
+114,59,Infected,1321394,103914365,Foreigner
+115,74,Infected,1377556,103914245,Singaporean Citizen
+116,63,Healthy,1404352,103910916,Foreigner
+117,29,Infected,1381273,103913209,Foreigner
+118,7,Infected,1415346,103911003,Singaporean Citizen
+119,19,Healthy,1342501,103912141,Foreigner
+120,17,Healthy,1383134,103912283,Singaporean Citizen
+121,13,Infected,1333485,103910849,Singaporean Citizen
+122,58,Infected,1345458,103913371,Foreigner
+123,60,Healthy,1342356,103913874,Foreigner
+124,89,Healthy,1386705,103912761,Foreigner
+125,32,Infected,1379372,103910623,Foreigner
+126,33,Healthy,1403407,103911401,Singaporean Citizen
+127,11,Infected,1391526,103914436,Foreigner
+128,21,Infected,1380369,103910281,Singaporean Citizen
+129,42,Infected,1329684,103914724,Foreigner
+130,30,Infected,1310318,103913741,Foreigner
+131,59,Infected,1360322,103913658,Foreigner
+132,85,Infected,1366801,103912892,Foreigner
+133,77,Infected,1332275,103910737,Foreigner
+134,62,Healthy,1343221,103914431,Foreigner
+135,5,Infected,1356541,103910265,Foreigner
+136,63,Healthy,1301097,103910424,Singaporean Citizen
+137,68,Healthy,1355181,103910598,Foreigner
+138,95,Infected,1352207,103910547,Foreigner
+139,7,Healthy,1309389,103911060,Singaporean Citizen
+140,22,Infected,1384702,103914400,Singaporean Citizen
+141,5,Infected,1318699,103911433,Foreigner
+142,36,Healthy,1301161,103914303,Singaporean Citizen
+143,49,Infected,1300790,103913946,Singaporean Citizen
+144,41,Infected,1388265,103911394,Singaporean Citizen
+145,65,Healthy,1410546,103910779,Foreigner
+146,36,Infected,1334430,103912031,Foreigner
+147,53,Healthy,1343985,103910427,Singaporean Citizen
+148,26,Infected,1355105,103914398,Foreigner
+149,65,Healthy,1341210,103912808,Singaporean Citizen
+150,5,Infected,1419680,103914593,Singaporean Citizen
+151,47,Healthy,1388455,103911194,Singaporean Citizen
+152,91,Infected,1341748,103913130,Singaporean Citizen
+153,65,Infected,1421077,103911390,Singaporean Citizen
+154,25,Healthy,1327084,103912400,Foreigner
+155,80,Healthy,1407785,103910500,Singaporean Citizen
+156,78,Infected,1399625,103913911,Foreigner
+157,16,Infected,1341048,103911919,Foreigner
+158,64,Healthy,1393005,103914388,Foreigner
+159,28,Infected,1339589,103912525,Singaporean Citizen
+160,89,Healthy,1345867,103911948,Foreigner
+161,76,Healthy,1315669,103911450,Foreigner
+162,4,Healthy,1393173,103912526,Foreigner
+163,46,Healthy,1345974,103913071,Foreigner
+164,34,Healthy,1369079,103914483,Singaporean Citizen
+165,43,Healthy,1384379,103910571,Foreigner
+166,75,Infected,1370972,103914624,Foreigner
+167,83,Healthy,1421092,103912860,Singaporean Citizen
+168,14,Infected,1394349,103910826,Foreigner
+169,23,Healthy,1357442,103911790,Singaporean Citizen
+170,93,Healthy,1368164,103912083,Foreigner
+171,94,Infected,1412364,103911579,Foreigner
+172,85,Healthy,1371139,103912619,Foreigner
+173,81,Healthy,1329505,103911131,Foreigner
+174,76,Healthy,1342086,103913217,Singaporean Citizen
+175,71,Healthy,1353203,103912664,Foreigner
+176,48,Infected,1320241,103911186,Foreigner
+177,82,Healthy,1362987,103912473,Foreigner
+178,61,Healthy,1393972,103914404,Singaporean Citizen
+179,55,Infected,1390924,103912300,Singaporean Citizen
+180,42,Healthy,1373883,103913642,Singaporean Citizen
+181,71,Healthy,1326396,103912289,Foreigner
+182,44,Healthy,1408513,103911124,Foreigner
+183,43,Infected,1421298,103911331,Foreigner
+184,31,Infected,1404787,103913833,Singaporean Citizen
+185,37,Healthy,1414821,103913635,Singaporean Citizen
+186,83,Infected,1402675,103913016,Foreigner
+187,5,Infected,1391398,103910365,Singaporean Citizen
+188,24,Infected,1407951,103914679,Singaporean Citizen
+189,84,Infected,1357237,103912977,Singaporean Citizen
+190,69,Infected,1395285,103911625,Singaporean Citizen
+191,72,Infected,1405284,103912038,Foreigner
+192,50,Healthy,1394554,103912075,Foreigner
+193,38,Infected,1329290,103910408,Foreigner
+194,48,Infected,1376675,103913656,Singaporean Citizen
+195,2,Infected,1362889,103911713,Singaporean Citizen
+196,77,Healthy,1341724,103911857,Foreigner
+197,44,Healthy,1320211,103914080,Singaporean Citizen
+198,90,Infected,1373613,103912638,Foreigner
+199,1,Healthy,1404853,103912981,Singaporean Citizen
+200,71,Healthy,1371248,103913168,Foreigner
+201,97,Healthy,1300668,103912938,Singaporean Citizen
+202,62,Healthy,1366585,103913433,Singaporean Citizen
+203,52,Infected,1389165,103913329,Singaporean Citizen
+204,92,Infected,1360167,103911864,Foreigner
+205,89,Healthy,1362894,103912000,Foreigner
+206,66,Infected,1417305,103913816,Singaporean Citizen
+207,17,Healthy,1331314,103914631,Singaporean Citizen
+208,98,Healthy,1312103,103911657,Foreigner
+209,61,Infected,1352256,103910389,Singaporean Citizen
+210,45,Infected,1367079,103911968,Singaporean Citizen
+211,14,Healthy,1336399,103911523,Singaporean Citizen
+212,64,Healthy,1406346,103911783,Singaporean Citizen
+213,8,Healthy,1357231,103912559,Singaporean Citizen
+214,18,Infected,1303317,103914176,Singaporean Citizen
+215,56,Healthy,1398243,103911811,Singaporean Citizen
+216,98,Infected,1397525,103911825,Singaporean Citizen
+217,55,Healthy,1377897,103911710,Singaporean Citizen
+218,14,Healthy,1385983,103911093,Singaporean Citizen
+219,87,Infected,1303308,103912227,Singaporean Citizen
+220,39,Infected,1341498,103914688,Singaporean Citizen
+221,96,Healthy,1357413,103911622,Foreigner
+222,89,Infected,1302736,103913902,Foreigner
+223,35,Healthy,1367835,103913709,Singaporean Citizen
+224,91,Infected,1308100,103912772,Singaporean Citizen
+225,99,Infected,1346326,103913891,Foreigner
+226,2,Healthy,1346106,103912403,Singaporean Citizen
+227,1,Healthy,1339210,103913309,Singaporean Citizen
+228,77,Healthy,1409997,103913857,Foreigner
+229,18,Healthy,1374219,103914264,Singaporean Citizen
+230,88,Healthy,1417018,103911685,Foreigner
+231,62,Infected,1337306,103913263,Foreigner
+232,91,Infected,1417644,103914666,Singaporean Citizen
+233,85,Healthy,1328445,103913304,Singaporean Citizen
+234,69,Infected,1409663,103913063,Foreigner
+235,26,Infected,1363475,103912187,Foreigner
+236,99,Infected,1393239,103912788,Foreigner
+237,93,Healthy,1307256,103911694,Singaporean Citizen
+238,12,Infected,1420415,103913132,Foreigner
+239,18,Infected,1351768,103912514,Singaporean Citizen
+240,22,Infected,1401417,103911081,Singaporean Citizen
+241,64,Healthy,1335202,103911406,Singaporean Citizen
+242,8,Healthy,1327708,103911287,Singaporean Citizen
+243,48,Healthy,1350750,103913213,Singaporean Citizen
+244,8,Infected,1363938,103912147,Foreigner
+245,88,Infected,1417284,103911382,Singaporean Citizen
+246,76,Infected,1342328,103914403,Singaporean Citizen
+247,52,Healthy,1400491,103914542,Foreigner
+248,59,Infected,1303561,103913164,Singaporean Citizen
+249,85,Healthy,1325206,103913242,Singaporean Citizen
+250,90,Infected,1367237,103912167,Foreigner
+251,36,Infected,1414286,103914569,Foreigner
+252,17,Healthy,1355337,103911699,Singaporean Citizen
+253,6,Healthy,1366958,103913652,Foreigner
+254,39,Healthy,1388876,103910763,Singaporean Citizen
+255,52,Healthy,1347178,103913250,Singaporean Citizen
+256,71,Infected,1342319,103913960,Singaporean Citizen
+257,23,Healthy,1343180,103910320,Singaporean Citizen
+258,69,Infected,1331184,103910896,Singaporean Citizen
+259,85,Infected,1409777,103912113,Singaporean Citizen
+260,84,Infected,1301143,103910407,Foreigner
+261,19,Healthy,1346809,103910777,Singaporean Citizen
+262,17,Infected,1319371,103910507,Foreigner
+263,63,Infected,1306008,103913112,Foreigner
+264,79,Healthy,1348981,103913577,Singaporean Citizen
+265,48,Healthy,1331401,103912889,Singaporean Citizen
+266,45,Infected,1401766,103912343,Foreigner
+267,80,Infected,1317872,103914277,Foreigner
+268,12,Healthy,1355368,103912944,Foreigner
+269,74,Healthy,1412197,103910494,Singaporean Citizen
+270,79,Healthy,1320154,103912599,Foreigner
+271,79,Infected,1393903,103912429,Singaporean Citizen
+272,64,Infected,1303802,103913780,Foreigner
+273,58,Infected,1368325,103914022,Singaporean Citizen
+274,79,Healthy,1335231,103912661,Foreigner
+275,12,Healthy,1335158,103911052,Foreigner
+276,83,Infected,1365613,103913793,Foreigner
+277,46,Infected,1373718,103911370,Singaporean Citizen
+278,64,Healthy,1373456,103913476,Singaporean Citizen
+279,10,Infected,1318725,103910867,Foreigner
+280,89,Healthy,1387117,103914610,Foreigner
+281,46,Healthy,1345990,103911114,Singaporean Citizen
+282,47,Healthy,1410233,103914378,Foreigner
+283,36,Infected,1349861,103912777,Singaporean Citizen
+284,3,Infected,1394836,103911976,Singaporean Citizen
+285,61,Infected,1405632,103912552,Foreigner
+286,47,Healthy,1397341,103910807,Foreigner
+287,29,Infected,1364208,103911004,Singaporean Citizen
+288,98,Healthy,1391311,103913811,Singaporean Citizen
+289,53,Healthy,1326083,103914514,Singaporean Citizen
+290,25,Healthy,1335464,103911024,Singaporean Citizen
+291,32,Infected,1359823,103912139,Foreigner
+292,7,Healthy,1361355,103911548,Foreigner
+293,61,Healthy,1350898,103913710,Foreigner
+294,53,Healthy,1340229,103911562,Foreigner
+295,33,Infected,1399336,103911103,Singaporean Citizen
+296,8,Healthy,1383489,103911945,Singaporean Citizen
+297,92,Healthy,1351568,103910719,Singaporean Citizen
+298,19,Healthy,1378281,103911668,Foreigner
+299,84,Infected,1404055,103910391,Singaporean Citizen
+300,26,Infected,1418318,103914332,Singaporean Citizen
+301,51,Infected,1393616,103910871,Singaporean Citizen
+302,12,Healthy,1320844,103911133,Foreigner
+303,85,Infected,1358435,103913210,Foreigner
+304,56,Infected,1408636,103914359,Singaporean Citizen
+305,35,Infected,1396947,103912627,Singaporean Citizen
+306,64,Infected,1400633,103912350,Singaporean Citizen
+307,70,Infected,1371325,103913129,Singaporean Citizen
+308,64,Infected,1394696,103914261,Singaporean Citizen
+309,8,Healthy,1399981,103911957,Singaporean Citizen
+310,67,Healthy,1367339,103913701,Foreigner
+311,50,Infected,1399921,103914324,Foreigner
+312,90,Infected,1337795,103911331,Singaporean Citizen
+313,53,Infected,1386467,103910871,Singaporean Citizen
+314,16,Healthy,1399858,103914623,Foreigner
+315,86,Infected,1367342,103914588,Foreigner
+316,22,Infected,1389843,103910842,Foreigner
+317,8,Healthy,1317551,103913394,Foreigner
+318,36,Healthy,1390823,103914129,Foreigner
+319,26,Infected,1329060,103912359,Singaporean Citizen
+320,53,Healthy,1409276,103914310,Foreigner
+321,84,Healthy,1305653,103911653,Singaporean Citizen
+322,43,Healthy,1353935,103910768,Foreigner
+323,59,Infected,1409683,103910794,Singaporean Citizen
+324,30,Healthy,1376163,103912256,Foreigner
+325,71,Infected,1386764,103911412,Foreigner
+326,1,Infected,1365028,103911863,Singaporean Citizen
+327,60,Infected,1419212,103912549,Singaporean Citizen
+328,70,Healthy,1335746,103911176,Foreigner
+329,14,Infected,1418697,103911695,Singaporean Citizen
+330,15,Infected,1414020,103912564,Foreigner
+331,36,Infected,1365917,103910389,Singaporean Citizen
+332,96,Healthy,1342193,103912724,Singaporean Citizen
+333,25,Healthy,1361917,103914394,Singaporean Citizen
+334,10,Infected,1418768,103910749,Singaporean Citizen
+335,72,Healthy,1337766,103913708,Foreigner
+336,85,Infected,1378617,103910840,Foreigner
+337,16,Healthy,1333373,103912471,Foreigner
+338,97,Infected,1315190,103911501,Foreigner
+339,1,Healthy,1410692,103911849,Singaporean Citizen
+340,3,Healthy,1309178,103912423,Foreigner
+341,41,Infected,1370681,103911358,Foreigner
+342,29,Infected,1377777,103913675,Foreigner
+343,55,Healthy,1397588,103911281,Singaporean Citizen
+344,47,Healthy,1371096,103910937,Singaporean Citizen
+345,47,Healthy,1390615,103910451,Foreigner
+346,75,Infected,1418497,103914171,Foreigner
+347,52,Healthy,1357475,103911807,Foreigner
+348,52,Healthy,1332805,103911203,Foreigner
+349,25,Healthy,1340940,103913185,Foreigner
+350,76,Infected,1350282,103912524,Foreigner
+351,51,Infected,1322150,103910483,Foreigner
+352,37,Healthy,1367959,103913560,Foreigner
+353,89,Infected,1327683,103912991,Foreigner
+354,86,Infected,1333854,103913266,Singaporean Citizen
+355,100,Healthy,1339270,103913590,Singaporean Citizen
+356,94,Healthy,1341436,103913799,Singaporean Citizen
+357,59,Healthy,1375761,103914050,Singaporean Citizen
+358,65,Healthy,1368072,103913933,Foreigner
+359,84,Healthy,1399121,103912148,Foreigner
+360,31,Healthy,1343332,103914170,Foreigner
+361,61,Healthy,1407991,103910382,Singaporean Citizen
+362,53,Infected,1377682,103912024,Singaporean Citizen
+363,98,Infected,1420960,103910837,Foreigner
+364,71,Healthy,1320105,103914690,Singaporean Citizen
+365,52,Healthy,1366391,103913056,Singaporean Citizen
+366,83,Healthy,1371558,103912654,Foreigner
+367,85,Healthy,1337055,103910740,Foreigner
+368,29,Infected,1392881,103910388,Foreigner
+369,42,Infected,1368835,103910792,Foreigner
+370,82,Infected,1404363,103914691,Singaporean Citizen
+371,63,Infected,1382336,103910699,Singaporean Citizen
+372,95,Healthy,1365801,103913091,Foreigner
+373,33,Infected,1359138,103914481,Singaporean Citizen
+374,100,Infected,1411583,103911965,Foreigner
+375,32,Infected,1304348,103912576,Foreigner
+376,49,Healthy,1413235,103913433,Singaporean Citizen
+377,30,Healthy,1332993,103911537,Singaporean Citizen
+378,52,Healthy,1346216,103911127,Foreigner
+379,95,Healthy,1305418,103913364,Foreigner
+380,29,Infected,1385111,103914385,Foreigner
+381,88,Infected,1330062,103910936,Foreigner
+382,64,Healthy,1388098,103910784,Singaporean Citizen
+383,31,Healthy,1421620,103913518,Singaporean Citizen
+384,83,Infected,1381604,103914150,Singaporean Citizen
+385,78,Healthy,1348346,103912037,Singaporean Citizen
+386,47,Healthy,1375299,103914266,Foreigner
+387,72,Infected,1316916,103910964,Foreigner
+388,36,Healthy,1335722,103910756,Foreigner
+389,48,Infected,1412052,103912425,Singaporean Citizen
+390,16,Healthy,1419398,103911886,Singaporean Citizen
+391,77,Healthy,1347690,103913672,Singaporean Citizen
+392,59,Infected,1397730,103911681,Singaporean Citizen
+393,14,Healthy,1354823,103911704,Singaporean Citizen
+394,16,Infected,1314033,103913168,Singaporean Citizen
+395,39,Healthy,1322829,103913138,Singaporean Citizen
+396,100,Healthy,1381077,103910647,Foreigner
+397,94,Healthy,1382012,103913284,Singaporean Citizen
+398,64,Infected,1329982,103912206,Singaporean Citizen
+399,50,Infected,1415879,103914657,Singaporean Citizen
+400,75,Infected,1348516,103914438,Foreigner
+401,7,Infected,1363793,103913930,Singaporean Citizen
+402,1,Infected,1334922,103910637,Singaporean Citizen
+403,74,Healthy,1401280,103912348,Singaporean Citizen
+404,5,Healthy,1378174,103911658,Foreigner
+405,58,Healthy,1301385,103910982,Singaporean Citizen
+406,11,Healthy,1388266,103913169,Foreigner
+407,68,Healthy,1416459,103910644,Singaporean Citizen
+408,92,Infected,1365018,103914643,Foreigner
+409,14,Infected,1382200,103914383,Singaporean Citizen
+410,27,Healthy,1347800,103910695,Foreigner
+411,1,Infected,1351541,103912296,Foreigner
+412,39,Infected,1377938,103911604,Foreigner
+413,90,Infected,1315555,103913770,Singaporean Citizen
+414,89,Healthy,1342652,103911717,Foreigner
+415,60,Healthy,1357348,103913863,Foreigner
+416,35,Healthy,1332393,103912001,Foreigner
+417,6,Infected,1361693,103913128,Singaporean Citizen
+418,22,Healthy,1323160,103911571,Singaporean Citizen
+419,69,Infected,1320578,103912140,Singaporean Citizen
+420,12,Healthy,1304375,103910961,Singaporean Citizen
+421,62,Healthy,1346076,103913970,Foreigner
+422,99,Healthy,1375990,103912055,Foreigner
+423,11,Infected,1356487,103913987,Singaporean Citizen
+424,5,Healthy,1346750,103911418,Singaporean Citizen
+425,20,Healthy,1337655,103910279,Foreigner
+426,61,Infected,1345538,103912795,Singaporean Citizen
+427,35,Infected,1331265,103914073,Singaporean Citizen
+428,87,Infected,1391517,103914044,Singaporean Citizen
+429,85,Infected,1315669,103912675,Foreigner
+430,87,Infected,1299195,103913756,Foreigner
+431,27,Healthy,1419305,103913409,Singaporean Citizen
+432,41,Infected,1310454,103914089,Singaporean Citizen
+433,6,Infected,1409923,103911475,Singaporean Citizen
+434,34,Healthy,1412016,103911212,Foreigner
+435,4,Infected,1326964,103914048,Singaporean Citizen
+436,60,Infected,1360462,103911186,Foreigner
+437,6,Infected,1385781,103911304,Foreigner
+438,90,Infected,1371236,103910810,Foreigner
+439,29,Infected,1330621,103912915,Foreigner
+440,97,Healthy,1314615,103913625,Foreigner
+441,6,Healthy,1407421,103910365,Singaporean Citizen
+442,69,Healthy,1391274,103911653,Singaporean Citizen
+443,43,Infected,1302177,103911196,Singaporean Citizen
+444,68,Infected,1335211,103912052,Foreigner
+445,22,Infected,1296979,103911966,Singaporean Citizen
+446,12,Healthy,1397207,103912439,Foreigner
+447,64,Healthy,1349730,103914171,Singaporean Citizen
+448,79,Infected,1356413,103914198,Singaporean Citizen
+449,22,Healthy,1420956,103910817,Foreigner
+450,62,Healthy,1309173,103914471,Foreigner
+451,22,Infected,1379264,103912396,Singaporean Citizen
+452,82,Infected,1421505,103913931,Foreigner
+453,75,Infected,1394153,103910967,Foreigner
+454,1,Healthy,1405092,103911990,Foreigner
+455,2,Infected,1376829,103912180,Foreigner
+456,97,Healthy,1365521,103913518,Singaporean Citizen
+457,19,Healthy,1420634,103910913,Singaporean Citizen
+458,36,Infected,1331622,103913932,Singaporean Citizen
+459,66,Infected,1357242,103911851,Foreigner
+460,68,Infected,1314962,103910875,Singaporean Citizen
+461,65,Infected,1400793,103911074,Foreigner
+462,75,Healthy,1331854,103911265,Singaporean Citizen
+463,58,Infected,1327113,103913840,Singaporean Citizen
+464,19,Infected,1374939,103914707,Singaporean Citizen
+465,38,Infected,1394759,103911005,Singaporean Citizen
+466,70,Healthy,1383661,103911431,Singaporean Citizen
+467,99,Healthy,1419527,103913899,Foreigner
+468,34,Healthy,1372149,103911843,Singaporean Citizen
+469,52,Healthy,1403609,103911741,Singaporean Citizen
+470,64,Healthy,1323325,103910971,Foreigner
+471,63,Infected,1360748,103911559,Foreigner
+472,77,Infected,1316002,103914212,Foreigner
+473,93,Infected,1320805,103913435,Foreigner
+474,100,Healthy,1383260,103912548,Foreigner
+475,69,Infected,1420033,103913819,Foreigner
+476,8,Healthy,1348108,103911477,Singaporean Citizen
+477,98,Infected,1394604,103912247,Singaporean Citizen
+478,42,Infected,1394494,103913145,Foreigner
+479,2,Healthy,1369387,103912541,Foreigner
+480,42,Infected,1308686,103913474,Singaporean Citizen
+481,92,Healthy,1315207,103911793,Foreigner
+482,99,Infected,1335867,103912801,Singaporean Citizen
+483,4,Infected,1336264,103914458,Singaporean Citizen
+484,74,Healthy,1386438,103914190,Singaporean Citizen
+485,71,Infected,1378114,103913205,Foreigner
+486,73,Healthy,1405493,103911308,Foreigner
+487,65,Healthy,1328754,103910336,Singaporean Citizen
+488,42,Healthy,1357301,103913093,Singaporean Citizen
+489,66,Infected,1412188,103911210,Foreigner
+490,53,Healthy,1421700,103914631,Singaporean Citizen
+491,26,Infected,1374089,103912289,Singaporean Citizen
+492,65,Healthy,1414538,103911490,Singaporean Citizen
+493,25,Healthy,1392244,103914664,Foreigner
+494,16,Infected,1420034,103913165,Singaporean Citizen
+495,16,Healthy,1390377,103913643,Singaporean Citizen
+496,33,Healthy,1301152,103912153,Singaporean Citizen
+497,69,Infected,1403916,103914472,Singaporean Citizen
+498,12,Healthy,1349610,103912832,Singaporean Citizen
+499,49,Healthy,1373351,103913367,Foreigner
+500,20,Healthy,1408275,103911011,Singaporean Citizen
+501,21,Healthy,1323636,103914546,Foreigner
+502,84,Healthy,1372517,103912758,Singaporean Citizen
+503,66,Infected,1393787,103912313,Singaporean Citizen
+504,71,Infected,1356139,103910344,Foreigner
+505,16,Infected,1344813,103913806,Singaporean Citizen
+506,61,Infected,1332894,103912857,Singaporean Citizen
+507,75,Healthy,1319416,103911791,Singaporean Citizen
+508,26,Infected,1300323,103912060,Singaporean Citizen
+509,93,Infected,1366510,103914309,Singaporean Citizen
+510,40,Healthy,1363889,103914346,Foreigner
+511,6,Infected,1299256,103912550,Foreigner
+512,30,Infected,1411864,103913719,Foreigner
+513,72,Infected,1386179,103912395,Foreigner
+514,82,Infected,1387016,103912934,Foreigner
+515,80,Infected,1311181,103910285,Singaporean Citizen
+516,38,Infected,1342975,103911015,Singaporean Citizen
+517,40,Healthy,1376544,103911102,Foreigner
+518,11,Infected,1374255,103911029,Foreigner
+519,52,Infected,1315894,103911114,Foreigner
+520,86,Healthy,1412379,103913945,Singaporean Citizen
+521,67,Healthy,1368199,103911284,Singaporean Citizen
+522,28,Infected,1322029,103911759,Foreigner
+523,98,Infected,1382429,103910380,Foreigner
+524,65,Healthy,1413040,103913805,Foreigner
+525,69,Healthy,1309973,103911998,Foreigner
+526,26,Healthy,1390526,103911393,Singaporean Citizen
+527,93,Healthy,1391370,103911799,Singaporean Citizen
+528,63,Infected,1421592,103910440,Foreigner
+529,1,Healthy,1343018,103914570,Foreigner
+530,22,Healthy,1408168,103914554,Foreigner
+531,98,Infected,1336678,103910985,Foreigner
+532,97,Healthy,1364040,103912721,Singaporean Citizen
+533,52,Healthy,1326404,103911377,Singaporean Citizen
+534,17,Healthy,1347915,103914119,Foreigner
+535,12,Healthy,1360590,103912501,Foreigner
+536,4,Infected,1379370,103911024,Foreigner
+537,57,Healthy,1303215,103911698,Singaporean Citizen
+538,14,Healthy,1377768,103912524,Singaporean Citizen
+539,7,Infected,1405267,103911726,Foreigner
+540,78,Infected,1326949,103911031,Foreigner
+541,33,Infected,1336328,103910601,Singaporean Citizen
+542,17,Infected,1416370,103911624,Singaporean Citizen
+543,9,Infected,1382692,103912375,Singaporean Citizen
+544,30,Healthy,1399700,103911334,Foreigner
+545,44,Infected,1324599,103910411,Foreigner
+546,91,Healthy,1372756,103910541,Singaporean Citizen
+547,8,Infected,1398334,103910473,Singaporean Citizen
+548,97,Infected,1363195,103911562,Singaporean Citizen
+549,99,Infected,1341521,103911291,Singaporean Citizen
+550,70,Infected,1353696,103911893,Foreigner
+551,69,Infected,1366350,103911546,Singaporean Citizen
+552,53,Healthy,1410525,103910340,Foreigner
+553,53,Infected,1307701,103910530,Singaporean Citizen
+554,97,Healthy,1418448,103911163,Singaporean Citizen
+555,13,Infected,1390982,103912026,Foreigner
+556,9,Infected,1375225,103913873,Singaporean Citizen
+557,31,Healthy,1375920,103913954,Singaporean Citizen
+558,27,Infected,1355583,103911432,Singaporean Citizen
+559,75,Infected,1370360,103913233,Foreigner
+560,97,Infected,1341793,103912614,Singaporean Citizen
+561,40,Infected,1405745,103911776,Foreigner
+562,99,Healthy,1358621,103912559,Foreigner
+563,33,Infected,1415480,103913614,Foreigner
+564,20,Healthy,1366724,103911114,Singaporean Citizen
+565,52,Infected,1312618,103910991,Singaporean Citizen
+566,66,Healthy,1302479,103913535,Foreigner
+567,23,Infected,1380617,103913056,Foreigner
+568,10,Healthy,1414316,103913017,Foreigner
+569,59,Infected,1422527,103910717,Foreigner
+570,95,Healthy,1347613,103914416,Singaporean Citizen
+571,19,Infected,1417490,103913343,Foreigner
+572,81,Healthy,1342296,103911768,Foreigner
+573,47,Infected,1400333,103912814,Singaporean Citizen
+574,95,Healthy,1403780,103912317,Singaporean Citizen
+575,55,Infected,1416366,103912341,Foreigner
+576,99,Infected,1370238,103911659,Singaporean Citizen
+577,85,Healthy,1370681,103913832,Singaporean Citizen
+578,45,Infected,1385328,103912984,Foreigner
+579,9,Infected,1321713,103913983,Singaporean Citizen
+580,9,Infected,1339277,103911315,Singaporean Citizen
+581,94,Infected,1328833,103912178,Singaporean Citizen
+582,76,Infected,1357578,103912799,Singaporean Citizen
+583,46,Healthy,1410425,103914590,Foreigner
+584,21,Healthy,1382707,103910353,Foreigner
+585,66,Healthy,1333175,103912082,Foreigner
+586,64,Healthy,1324101,103911429,Foreigner
+587,57,Healthy,1338117,103912685,Foreigner
+588,43,Infected,1410248,103913573,Singaporean Citizen
+589,22,Healthy,1343094,103911876,Singaporean Citizen
+590,33,Healthy,1388728,103914059,Foreigner
+591,43,Healthy,1313168,103911901,Foreigner
+592,43,Healthy,1367616,103911345,Singaporean Citizen
+593,9,Healthy,1329597,103912478,Singaporean Citizen
+594,15,Healthy,1357574,103913909,Foreigner
+595,3,Infected,1377661,103913202,Foreigner
+596,94,Healthy,1352341,103912391,Foreigner
+597,64,Infected,1312949,103914032,Foreigner
+598,51,Infected,1386081,103912864,Foreigner
+599,62,Healthy,1372767,103912251,Foreigner
+600,48,Infected,1420700,103910490,Foreigner
+601,12,Healthy,1303168,103913942,Singaporean Citizen
+602,17,Healthy,1377992,103912165,Singaporean Citizen
+603,23,Healthy,1380710,103912138,Foreigner
+604,98,Healthy,1365135,103914468,Singaporean Citizen
+605,23,Healthy,1346172,103913693,Singaporean Citizen
+606,31,Healthy,1298824,103913703,Foreigner
+607,36,Infected,1321277,103913253,Foreigner
+608,71,Healthy,1397339,103914325,Singaporean Citizen
+609,55,Infected,1297666,103913553,Singaporean Citizen
+610,97,Infected,1310882,103912051,Singaporean Citizen
+611,83,Healthy,1342378,103912862,Singaporean Citizen
+612,46,Infected,1326397,103912193,Foreigner
+613,91,Infected,1311399,103910337,Singaporean Citizen
+614,6,Healthy,1333287,103910550,Foreigner
+615,70,Healthy,1369221,103911253,Singaporean Citizen
+616,49,Infected,1339705,103910521,Foreigner
+617,59,Infected,1374429,103912440,Singaporean Citizen
+618,14,Infected,1348168,103913886,Singaporean Citizen
+619,51,Healthy,1300236,103914158,Foreigner
+620,85,Infected,1410632,103913471,Foreigner
+621,57,Infected,1394061,103912585,Foreigner
+622,87,Infected,1404777,103912948,Singaporean Citizen
+623,44,Infected,1404373,103914173,Foreigner
+624,18,Healthy,1349720,103911907,Foreigner
+625,94,Infected,1307887,103910933,Foreigner
+626,16,Infected,1349442,103912871,Singaporean Citizen
+627,48,Infected,1326352,103913537,Singaporean Citizen
+628,16,Healthy,1345623,103914421,Foreigner
+629,83,Infected,1390199,103913610,Singaporean Citizen
+630,13,Infected,1305906,103914002,Foreigner
+631,78,Healthy,1360605,103912700,Singaporean Citizen
+632,59,Infected,1368868,103911024,Foreigner
+633,53,Healthy,1297427,103912723,Singaporean Citizen
+634,52,Healthy,1297738,103910684,Singaporean Citizen
+635,77,Healthy,1300374,103914458,Singaporean Citizen
+636,96,Healthy,1422916,103912878,Singaporean Citizen
+637,39,Healthy,1327783,103911845,Foreigner
+638,30,Infected,1320293,103911569,Singaporean Citizen
+639,43,Infected,1309230,103912265,Singaporean Citizen
+640,26,Infected,1323008,103912600,Foreigner
+641,85,Healthy,1343804,103911857,Singaporean Citizen
+642,49,Healthy,1335801,103912072,Foreigner
+643,8,Infected,1356545,103910424,Singaporean Citizen
+644,91,Healthy,1348555,103910363,Singaporean Citizen
+645,62,Healthy,1342996,103912045,Foreigner
+646,53,Healthy,1344851,103912586,Foreigner
+647,52,Healthy,1366084,103914758,Foreigner
+648,1,Infected,1365400,103911188,Foreigner
+649,86,Healthy,1321816,103914503,Singaporean Citizen
+650,67,Healthy,1317478,103910925,Singaporean Citizen
+651,96,Healthy,1349916,103912759,Singaporean Citizen
+652,33,Infected,1324762,103913787,Foreigner
+653,19,Infected,1312534,103911815,Foreigner
+654,97,Infected,1387328,103912507,Foreigner
+655,92,Infected,1410274,103912506,Foreigner
+656,96,Infected,1369234,103913596,Singaporean Citizen
+657,41,Infected,1302529,103910517,Singaporean Citizen
+658,56,Infected,1381937,103913312,Foreigner
+659,46,Infected,1378636,103912813,Singaporean Citizen
+660,55,Healthy,1399007,103913885,Singaporean Citizen
+661,55,Healthy,1318801,103914312,Foreigner
+662,48,Healthy,1348457,103911998,Singaporean Citizen
+663,46,Healthy,1355659,103913829,Singaporean Citizen
+664,90,Healthy,1343319,103914191,Singaporean Citizen
+665,77,Infected,1402770,103912877,Foreigner
+666,3,Healthy,1350022,103914396,Singaporean Citizen
+667,48,Infected,1403580,103912377,Foreigner
+668,79,Infected,1335633,103910768,Singaporean Citizen
+669,26,Healthy,1328401,103914159,Foreigner
+670,33,Infected,1342268,103910753,Foreigner
+671,28,Healthy,1396775,103910806,Singaporean Citizen
+672,53,Healthy,1343500,103910870,Singaporean Citizen
+673,45,Infected,1340895,103913593,Foreigner
+674,90,Healthy,1316108,103911051,Singaporean Citizen
+675,2,Healthy,1356460,103912441,Foreigner
+676,31,Infected,1331963,103912162,Singaporean Citizen
+677,79,Healthy,1380471,103910864,Singaporean Citizen
+678,34,Infected,1354176,103912995,Singaporean Citizen
+679,72,Healthy,1400068,103914719,Singaporean Citizen
+680,96,Healthy,1392922,103913139,Foreigner
+681,81,Healthy,1380938,103910618,Foreigner
+682,7,Healthy,1375490,103911360,Foreigner
+683,19,Healthy,1372207,103913141,Singaporean Citizen
+684,37,Infected,1323560,103910684,Singaporean Citizen
+685,57,Healthy,1395561,103913914,Singaporean Citizen
+686,19,Healthy,1309206,103910512,Singaporean Citizen
+687,64,Healthy,1322452,103911669,Singaporean Citizen
+688,34,Healthy,1374250,103913833,Foreigner
+689,51,Healthy,1343303,103912959,Singaporean Citizen
+690,95,Healthy,1350348,103912006,Singaporean Citizen
+691,40,Infected,1340231,103914628,Singaporean Citizen
+692,36,Infected,1306408,103912586,Foreigner
+693,3,Infected,1356512,103911601,Foreigner
+694,100,Infected,1341070,103912366,Foreigner
+695,18,Healthy,1323179,103911186,Singaporean Citizen
+696,77,Healthy,1364368,103913978,Foreigner
+697,59,Healthy,1311442,103912245,Foreigner
+698,48,Infected,1365031,103912780,Singaporean Citizen
+699,60,Infected,1391529,103911301,Foreigner
+700,7,Healthy,1345941,103911462,Foreigner
+701,75,Healthy,1397979,103913157,Singaporean Citizen
+702,75,Infected,1378443,103912042,Foreigner
+703,70,Infected,1328053,103913940,Foreigner
+704,54,Infected,1319721,103910527,Foreigner
+705,76,Healthy,1387273,103913033,Foreigner
+706,46,Healthy,1390486,103913626,Singaporean Citizen
+707,33,Healthy,1325476,103910489,Singaporean Citizen
+708,20,Healthy,1411798,103910860,Singaporean Citizen
+709,46,Infected,1418867,103910916,Foreigner
+710,93,Infected,1298350,103910403,Singaporean Citizen
+711,85,Healthy,1383284,103911862,Singaporean Citizen
+712,81,Infected,1421683,103913710,Foreigner
+713,81,Infected,1341480,103911209,Foreigner
+714,63,Healthy,1374157,103914753,Singaporean Citizen
+715,41,Healthy,1361661,103912700,Foreigner
+716,28,Healthy,1314129,103913790,Foreigner
+717,66,Healthy,1345504,103914476,Singaporean Citizen
+718,98,Healthy,1343323,103910831,Foreigner
+719,74,Infected,1318743,103911030,Foreigner
+720,92,Healthy,1364183,103910978,Singaporean Citizen
+721,83,Infected,1379762,103914263,Singaporean Citizen
+722,34,Healthy,1327448,103910851,Singaporean Citizen
+723,74,Infected,1340898,103912343,Foreigner
+724,41,Healthy,1309421,103912411,Foreigner
+725,68,Infected,1298282,103910684,Singaporean Citizen
+726,5,Healthy,1304177,103913063,Singaporean Citizen
+727,70,Healthy,1412429,103910733,Singaporean Citizen
+728,79,Healthy,1348694,103914001,Foreigner
+729,80,Infected,1387047,103910347,Foreigner
+730,75,Infected,1358279,103913272,Singaporean Citizen
+731,38,Healthy,1360884,103913644,Singaporean Citizen
+732,72,Healthy,1421998,103912710,Foreigner
+733,70,Healthy,1418398,103911270,Singaporean Citizen
+734,92,Infected,1402739,103913626,Foreigner
+735,19,Healthy,1397197,103914040,Foreigner
+736,35,Healthy,1342578,103910363,Foreigner
+737,46,Healthy,1381872,103912871,Foreigner
+738,3,Infected,1416687,103913394,Singaporean Citizen
+739,80,Infected,1388941,103913543,Foreigner
+740,61,Healthy,1366687,103913938,Singaporean Citizen
+741,96,Infected,1353661,103912335,Singaporean Citizen
+742,4,Infected,1383195,103914576,Singaporean Citizen
+743,44,Infected,1381759,103911343,Foreigner
+744,27,Infected,1297480,103912691,Foreigner
+745,88,Infected,1383943,103913002,Singaporean Citizen
+746,67,Infected,1388015,103911437,Singaporean Citizen
+747,16,Infected,1421560,103911825,Singaporean Citizen
+748,76,Infected,1408766,103914575,Singaporean Citizen
+749,98,Infected,1372421,103914135,Singaporean Citizen
+750,48,Healthy,1310095,103913317,Singaporean Citizen
+751,73,Infected,1339432,103912418,Singaporean Citizen
+752,6,Infected,1405921,103914621,Foreigner
+753,4,Healthy,1413683,103913392,Singaporean Citizen
+754,79,Infected,1315278,103912775,Singaporean Citizen
+755,35,Healthy,1342469,103912410,Foreigner
+756,86,Infected,1337357,103911759,Foreigner
+757,84,Healthy,1402845,103914055,Foreigner
+758,79,Infected,1419199,103912662,Singaporean Citizen
+759,57,Infected,1326773,103913045,Singaporean Citizen
+760,17,Infected,1358666,103910433,Foreigner
+761,44,Healthy,1302705,103912352,Singaporean Citizen
+762,76,Healthy,1405776,103913106,Foreigner
+763,9,Infected,1304901,103910887,Foreigner
+764,57,Infected,1379386,103914451,Foreigner
+765,6,Healthy,1391423,103910379,Foreigner
+766,38,Infected,1366801,103910366,Foreigner
+767,37,Healthy,1385336,103911895,Singaporean Citizen
+768,9,Healthy,1320552,103911232,Foreigner
+769,91,Infected,1317049,103913959,Foreigner
+770,47,Healthy,1373587,103910919,Singaporean Citizen
+771,51,Healthy,1368796,103913848,Foreigner
+772,80,Healthy,1349508,103911213,Foreigner
+773,88,Infected,1342095,103913189,Singaporean Citizen
+774,84,Infected,1377087,103913856,Singaporean Citizen
+775,6,Infected,1393683,103911608,Foreigner
+776,34,Healthy,1401868,103911456,Singaporean Citizen
+777,96,Healthy,1422793,103912143,Singaporean Citizen
+778,37,Infected,1324033,103911101,Foreigner
+779,75,Infected,1323990,103912562,Foreigner
+780,39,Healthy,1355456,103911504,Singaporean Citizen
+781,78,Healthy,1416065,103914681,Foreigner
+782,39,Healthy,1311087,103911987,Singaporean Citizen
+783,94,Healthy,1314854,103911487,Foreigner
+784,69,Healthy,1371647,103913014,Foreigner
+785,56,Infected,1325229,103911831,Foreigner
+786,10,Healthy,1318095,103914143,Foreigner
+787,15,Infected,1305461,103914430,Singaporean Citizen
+788,21,Healthy,1420362,103914437,Foreigner
+789,56,Healthy,1331538,103911528,Singaporean Citizen
+790,86,Infected,1377401,103914571,Singaporean Citizen
+791,17,Infected,1298645,103912100,Foreigner
+792,12,Infected,1336828,103911724,Singaporean Citizen
+793,79,Healthy,1419803,103913056,Singaporean Citizen
+794,100,Healthy,1320278,103913923,Singaporean Citizen
+795,69,Infected,1312152,103911723,Singaporean Citizen
+796,72,Healthy,1410323,103911226,Foreigner
+797,6,Healthy,1380611,103911619,Foreigner
+798,28,Infected,1406261,103913263,Foreigner
+799,21,Infected,1308710,103912302,Foreigner
+800,69,Infected,1363573,103911417,Singaporean Citizen
+801,72,Healthy,1390822,103911022,Singaporean Citizen
+802,40,Infected,1322954,103912651,Foreigner
+803,6,Healthy,1397668,103914074,Singaporean Citizen
+804,57,Healthy,1383931,103911666,Foreigner
+805,28,Infected,1422318,103910934,Singaporean Citizen
+806,35,Infected,1394352,103914152,Foreigner
+807,40,Healthy,1404487,103913208,Singaporean Citizen
+808,12,Infected,1350515,103913498,Foreigner
+809,96,Infected,1401730,103911118,Singaporean Citizen
+810,59,Healthy,1367256,103913462,Singaporean Citizen
+811,68,Healthy,1312594,103912472,Singaporean Citizen
+812,30,Infected,1315775,103914287,Singaporean Citizen
+813,83,Healthy,1322885,103912685,Singaporean Citizen
+814,2,Infected,1364137,103910926,Foreigner
+815,48,Healthy,1341445,103911265,Foreigner
+816,81,Infected,1387243,103912149,Foreigner
+817,72,Healthy,1358881,103913699,Singaporean Citizen
+818,22,Infected,1354234,103913442,Singaporean Citizen
+819,40,Healthy,1418530,103910268,Foreigner
+820,39,Healthy,1320932,103913820,Singaporean Citizen
+821,44,Healthy,1362324,103912191,Foreigner
+822,27,Healthy,1300738,103913764,Singaporean Citizen
+823,4,Healthy,1324643,103911253,Singaporean Citizen
+824,56,Healthy,1394042,103912068,Singaporean Citizen
+825,20,Infected,1318783,103911578,Foreigner
+826,62,Healthy,1299913,103910351,Foreigner
+827,9,Healthy,1402743,103911704,Foreigner
+828,17,Healthy,1353629,103912735,Foreigner
+829,84,Healthy,1387757,103912340,Foreigner
+830,8,Healthy,1333122,103913222,Foreigner
+831,13,Infected,1300151,103914227,Singaporean Citizen
+832,41,Infected,1339249,103912897,Foreigner
+833,61,Infected,1392671,103914641,Singaporean Citizen
+834,30,Infected,1390300,103914517,Singaporean Citizen
+835,80,Healthy,1300194,103914108,Foreigner
+836,95,Infected,1343716,103911973,Foreigner
+837,57,Healthy,1304720,103912384,Singaporean Citizen
+838,79,Infected,1306180,103913145,Foreigner
+839,51,Infected,1416008,103913888,Foreigner
+840,76,Healthy,1401912,103913497,Foreigner
+841,84,Healthy,1402906,103914212,Foreigner
+842,96,Healthy,1381457,103911561,Singaporean Citizen
+843,18,Healthy,1301880,103913519,Singaporean Citizen
+844,14,Infected,1297545,103912219,Foreigner
+845,33,Healthy,1421000,103912567,Singaporean Citizen
+846,57,Infected,1355085,103911039,Singaporean Citizen
+847,80,Infected,1336930,103914393,Singaporean Citizen
+848,94,Healthy,1408089,103911881,Foreigner
+849,4,Healthy,1418402,103912026,Singaporean Citizen
+850,74,Infected,1307120,103910646,Foreigner
+851,4,Infected,1409979,103911527,Foreigner
+852,28,Infected,1366039,103910863,Singaporean Citizen
+853,54,Infected,1394933,103912054,Singaporean Citizen
+854,25,Healthy,1417217,103912227,Singaporean Citizen
+855,27,Healthy,1410348,103913936,Singaporean Citizen
+856,95,Healthy,1394732,103911903,Singaporean Citizen
+857,46,Infected,1399844,103914737,Singaporean Citizen
+858,12,Infected,1397934,103914194,Foreigner
+859,45,Healthy,1309969,103910271,Foreigner
+860,39,Healthy,1371907,103911225,Foreigner
+861,69,Healthy,1320324,103912134,Singaporean Citizen
+862,34,Healthy,1334021,103913506,Singaporean Citizen
+863,53,Healthy,1317124,103912513,Foreigner
+864,21,Healthy,1391430,103913053,Foreigner
+865,58,Infected,1332266,103911831,Foreigner
+866,71,Infected,1398973,103911378,Singaporean Citizen
+867,89,Infected,1310214,103910368,Foreigner
+868,1,Healthy,1299113,103911144,Singaporean Citizen
+869,13,Healthy,1323237,103914157,Singaporean Citizen
+870,72,Infected,1378883,103912433,Singaporean Citizen
+871,89,Healthy,1354042,103911029,Singaporean Citizen
+872,80,Infected,1340793,103913635,Foreigner
+873,18,Infected,1375856,103914255,Singaporean Citizen
+874,7,Healthy,1403188,103912083,Singaporean Citizen
+875,67,Infected,1374444,103913832,Singaporean Citizen
+876,99,Infected,1348881,103914600,Foreigner
+877,11,Infected,1313921,103912022,Singaporean Citizen
+878,71,Healthy,1344472,103910999,Foreigner
+879,53,Healthy,1400212,103914480,Singaporean Citizen
+880,74,Infected,1385732,103914632,Foreigner
+881,63,Infected,1407144,103910532,Singaporean Citizen
+882,47,Infected,1393894,103912898,Foreigner
+883,83,Infected,1368050,103911408,Singaporean Citizen
+884,90,Healthy,1405312,103911978,Foreigner
+885,15,Infected,1389315,103913151,Singaporean Citizen
+886,26,Healthy,1412177,103912090,Singaporean Citizen
+887,25,Healthy,1342922,103911793,Singaporean Citizen
+888,19,Infected,1337051,103912113,Singaporean Citizen
+889,88,Healthy,1306052,103912602,Singaporean Citizen
+890,6,Healthy,1373924,103911907,Foreigner
+891,7,Healthy,1363592,103913467,Foreigner
+892,5,Healthy,1398795,103910335,Singaporean Citizen
+893,5,Infected,1383911,103912993,Foreigner
+894,7,Healthy,1359975,103910584,Foreigner
+895,14,Healthy,1351095,103914643,Foreigner
+896,83,Infected,1316489,103914638,Singaporean Citizen
+897,18,Infected,1353690,103911175,Foreigner
+898,78,Infected,1305775,103913642,Singaporean Citizen
+899,15,Infected,1383615,103911791,Singaporean Citizen
+900,72,Infected,1299537,103912281,Singaporean Citizen
+901,34,Healthy,1304671,103911856,Singaporean Citizen
+902,92,Healthy,1300105,103913605,Foreigner
+903,82,Infected,1355732,103912157,Foreigner
+904,89,Healthy,1418690,103911627,Singaporean Citizen
+905,31,Healthy,1313214,103911871,Foreigner
+906,27,Infected,1388066,103911496,Foreigner
+907,97,Infected,1384800,103912938,Singaporean Citizen
+908,48,Infected,1353596,103912358,Singaporean Citizen
+909,19,Healthy,1388742,103913195,Singaporean Citizen
+910,18,Infected,1346167,103910744,Foreigner
+911,42,Infected,1396238,103913084,Foreigner
+912,52,Healthy,1374571,103914479,Foreigner
+913,17,Infected,1348007,103911713,Foreigner
+914,48,Infected,1350036,103911799,Foreigner
+915,44,Infected,1388499,103913459,Foreigner
+916,58,Healthy,1381279,103911234,Singaporean Citizen
+917,92,Infected,1347368,103913713,Foreigner
+918,66,Infected,1367803,103914252,Singaporean Citizen
+919,98,Healthy,1342933,103911575,Foreigner
+920,79,Healthy,1395829,103914705,Singaporean Citizen
+921,21,Infected,1369023,103910677,Foreigner
+922,20,Infected,1399934,103910738,Foreigner
+923,80,Infected,1304014,103912512,Singaporean Citizen
+924,39,Healthy,1304771,103910577,Foreigner
+925,80,Healthy,1422711,103912845,Singaporean Citizen
+926,11,Healthy,1414504,103912746,Singaporean Citizen
+927,24,Infected,1377486,103913735,Foreigner
+928,52,Healthy,1410465,103913875,Foreigner
+929,9,Infected,1315681,103913795,Singaporean Citizen
+930,44,Healthy,1411572,103913536,Foreigner
+931,12,Healthy,1419256,103912395,Singaporean Citizen
+932,21,Healthy,1342864,103912911,Singaporean Citizen
+933,89,Healthy,1366800,103913196,Foreigner
+934,19,Infected,1343031,103913950,Foreigner
+935,69,Infected,1392948,103913677,Singaporean Citizen
+936,56,Healthy,1322851,103913174,Singaporean Citizen
+937,94,Healthy,1384446,103911644,Foreigner
+938,55,Infected,1366309,103911578,Foreigner
+939,47,Infected,1327016,103914735,Foreigner
+940,55,Infected,1370008,103912161,Singaporean Citizen
+941,47,Healthy,1314281,103911831,Foreigner
+942,97,Healthy,1415857,103913569,Singaporean Citizen
+943,50,Healthy,1365333,103913774,Foreigner
+944,20,Infected,1346646,103912537,Foreigner
+945,5,Healthy,1395224,103911118,Foreigner
+946,16,Infected,1378305,103911080,Foreigner
+947,27,Infected,1389126,103914467,Foreigner
+948,55,Infected,1377455,103914587,Singaporean Citizen
+949,81,Healthy,1311164,103911650,Foreigner
+950,97,Infected,1368233,103913777,Foreigner
+951,2,Infected,1342049,103914410,Foreigner
+952,64,Healthy,1398967,103914452,Singaporean Citizen
+953,72,Healthy,1399420,103912527,Singaporean Citizen
+954,52,Infected,1374429,103913931,Singaporean Citizen
+955,91,Healthy,1327354,103914178,Foreigner
+956,54,Infected,1368334,103912428,Singaporean Citizen
+957,80,Healthy,1402802,103912195,Singaporean Citizen
+958,16,Healthy,1319991,103913600,Foreigner
+959,47,Healthy,1297360,103913351,Foreigner
+960,8,Healthy,1403735,103913635,Singaporean Citizen
+961,64,Infected,1364790,103911364,Foreigner
+962,2,Infected,1382032,103910587,Foreigner
+963,19,Infected,1300331,103912135,Foreigner
+964,89,Infected,1324340,103914031,Foreigner
+965,16,Healthy,1322143,103913561,Singaporean Citizen
+966,69,Healthy,1299505,103911373,Foreigner
+967,28,Infected,1338554,103911883,Singaporean Citizen
+968,76,Infected,1305394,103910587,Foreigner
+969,15,Healthy,1403719,103913135,Singaporean Citizen
+970,49,Healthy,1357092,103913578,Foreigner
+971,45,Infected,1372525,103913707,Foreigner
+972,45,Infected,1410752,103913896,Singaporean Citizen
+973,82,Healthy,1406342,103912835,Foreigner
+974,8,Infected,1355843,103910323,Singaporean Citizen
+975,31,Healthy,1333489,103913802,Singaporean Citizen
+976,5,Healthy,1314376,103912145,Singaporean Citizen
+977,85,Healthy,1373113,103911919,Singaporean Citizen
+978,83,Healthy,1387666,103913218,Singaporean Citizen
+979,88,Healthy,1376392,103914385,Singaporean Citizen
+980,29,Infected,1378938,103914252,Singaporean Citizen
+981,69,Infected,1323716,103914107,Foreigner
+982,12,Healthy,1377480,103913196,Singaporean Citizen
+983,50,Infected,1330787,103912249,Foreigner
+984,39,Infected,1410007,103910881,Foreigner
+985,26,Infected,1393685,103912712,Singaporean Citizen
+986,69,Healthy,1374514,103912884,Foreigner
+987,54,Healthy,1326410,103912499,Foreigner
+988,11,Infected,1344522,103913651,Singaporean Citizen
+989,24,Healthy,1360345,103914113,Singaporean Citizen
+990,93,Infected,1417528,103910735,Foreigner
+991,35,Healthy,1300255,103913748,Foreigner
+992,11,Infected,1344859,103913286,Foreigner
+993,77,Infected,1313865,103910381,Singaporean Citizen
+994,10,Infected,1337073,103911056,Foreigner
+995,71,Healthy,1420334,103914370,Foreigner
+996,52,Healthy,1319539,103910698,Singaporean Citizen
+997,89,Healthy,1420008,103913457,Singaporean Citizen
+998,12,Infected,1335670,103911269,Singaporean Citizen
+999,10,Healthy,1380196,103913713,Singaporean Citizen
