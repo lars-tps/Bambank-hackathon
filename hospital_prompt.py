@@ -55,6 +55,8 @@ def importToCSV():
     add = input(">")
     if(add.lower() == "overwrite"):
         newCSV()
+
+    if(add.lower() == "add"):
         form = form_tool()
         file = open("hospital_data.csv", "a")
         for i in range(len(form)):
