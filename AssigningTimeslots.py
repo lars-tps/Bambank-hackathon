@@ -1,3 +1,4 @@
+import Priority as pr
 data = open("data.csv")
 import Priority as pr
 lst = []
@@ -19,7 +20,6 @@ for line in data:
         else:
             innerList.append(i)
     lst.append(innerList)
-lst.pop(0)
 print(pr.priority_sort(lst))
 
 
