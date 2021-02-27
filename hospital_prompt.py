@@ -25,27 +25,11 @@ def timeslots_prompt():
             flag = False
         clear_screen()
 
-    return timeslots
+    string = ''
+    for slot in timeslots:
+        string += f"{','.join(slot)};"
 
-# CSV Thing
-# def importToCSV():
-#     timeslots = timeslots_prompt()
-#     file = open("timeslots.csv", "a")
-#     for i in range(len(timeslots)):
-#         for j in range(len(timeslots[i])):
-#             file.writelines(timeslots[i][j]+";")
-#         file.write("\n")
-#
-#     file.close()
-#
-# def clearCSV():
-#     file = open("timeslots.csv", "w")
-#     file.write("")
-#     file.close()
-
-# End of CSV Thing
-
-    
+    return string
 
 
 def numberofvaccine_prompt():
@@ -57,11 +41,13 @@ def coordinates_prompt():
     coordinates = input("Please enter coordinates of this vaccination location")
     return coordinates
 
+
 def form_tool():
     print("Welcome to the vaccination station details form\nThis script allows user to input details of a vaccination station and stores them in a csv file\n")
     row = [name_prompt(), timeslots_prompt(), numberofvaccine_prompt(), coordinates_prompt()]
     print("Form submitted! Thanks for using this tool")
     return row
+
 
 # CSV Thing
 def importToCSV():
@@ -70,14 +56,7 @@ def importToCSV():
     for i in range(len(form)):
         file.writelines(str(form[i])+";")
 
-
     file.close()
 
-# def clearCSV():
-#     file = open("timeslots.csv", "w")
-#     file.write("")
-#     file.close()
-
-# End of CSV Thing
 
 importToCSV()
