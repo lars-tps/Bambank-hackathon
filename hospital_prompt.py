@@ -3,10 +3,14 @@ import os
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
+    pass
+
+def start_menu():
+    pass
 
 
 def name_prompt():
-    name = input("Please enter hospital name\n> ")
+    name = input("Please enter hospital name\n> ").lower()
     return name
 
 
@@ -26,6 +30,15 @@ def timeslots_prompt():
 
     return timeslots
 
+
 def numberofvaccine_prompt():
-    amount = input("Please enter the number of available vaccine")
+    amount = input("Please enter the number of available vaccine\n> ")
     return amount
+
+
+def coordinates_prompt():
+    coordinates = input("Please enter coordinates of this vaccination location")
+    return coordinates
+
+def prompt_loop():
+    print("Welcome to the vaccination station details form\nThis script allows user to input details of a vaccination station\n")
