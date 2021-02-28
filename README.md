@@ -7,8 +7,7 @@ We used some python packages to build this project, to run the web app on your c
 4. run main.py
 
 Planned features:
--automatic assignment of every datapoint into a timeslot
--generate unique QR code for every patient
--
-
-Implemented features:
+- automatic assignment of every datapoint into a timeslot
+- generate unique QR code for every patient
+- patient are able to accept or reject schedule
+- patient who rejected are automatically reschedule to another schedule
